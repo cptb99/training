@@ -1,0 +1,109 @@
+Networking|Quali sono i principali vantaggi dell'utilizzo del protocollo IPv6 rispetto a IPv4?
+Networking|Spiega il funzionamento del protocollo OSPF (Open Shortest Path First) nel routing.
+Networking|Come funziona il meccanismo di NAT (Network Address Translation) e quali sono i suoi principali utilizzi?
+Networking|Descrivi la differenza tra routing statico e dinamico in una rete enterprise.
+Networking|Quali sono i principali standard IEEE 802.11 per le reti wireless e come si differenziano?
+Networking|Come si implementa la segmentazione di rete tramite VLAN?
+Networking|Spiega il funzionamento del protocollo ARP e il suo ruolo nelle reti IP.
+Virtualizzazione|Quali sono i principali hypervisor di tipo 1 e tipo 2 e come si differenziano?
+Virtualizzazione|Come funziona la migrazione live di una macchina virtuale?
+Virtualizzazione|Quali sono i vantaggi della virtualizzazione desktop (VDI) in ambito universitario?
+Virtualizzazione|Spiega il concetto di storage live migration in ambiente virtualizzato.
+Virtualizzazione|Come si implementa il backup delle macchine virtuali mantenendo la consistenza dei dati?
+Virtualizzazione|Quali sono le best practice per il dimensionamento delle risorse in ambiente virtualizzato?
+Cloud Computing|Spiega la differenza tra IaaS, PaaS e SaaS con esempi pratici.
+Cloud Computing|Come si gestisce la sicurezza in un ambiente multi-cloud?
+Cloud Computing|Quali sono i vantaggi e gli svantaggi del cloud ibrido?
+Cloud Computing|Come si implementa il disaster recovery in ambiente cloud?
+Cloud Computing|Spiega il concetto di cloud bursting e in quali scenari è utile.
+Cloud Computing|Come si gestisce l'autenticazione e l'autorizzazione in ambiente cloud?
+Metodologie Agili|Quali sono i principi fondamentali del manifesto Agile?
+Metodologie Agili|Come si gestisce un backlog in Scrum?
+Metodologie Agili|Qual è il ruolo del Product Owner in un team Agile?
+Metodologie Agili|Come si conducono efficacemente le daily stand-up meeting?
+Metodologie Agili|Spiega la differenza tra Scrum e Kanban.
+VOIP|Come funziona il protocollo SIP e quali sono i suoi componenti principali?
+VOIP|Quali sono le principali problematiche di QoS in una rete VOIP?
+VOIP|Come si implementa la ridondanza in un sistema VOIP enterprise?
+VOIP|Spiega il funzionamento dei codec audio più comuni in VOIP.
+VOIP|Come si gestisce l'integrazione tra VOIP e telefonia tradizionale?
+DevOps|Quali sono i principali strumenti di CI/CD e come si integrano tra loro?
+DevOps|Come si implementa un pipeline di deployment automatico?
+DevOps|Spiega il concetto di Infrastructure as Code.
+DevOps|Come si gestisce il versioning delle configurazioni in ambiente DevOps?
+DevOps|Quali sono le best practice per il monitoring in un ambiente CI/CD?
+Sicurezza|Come si implementa una strategia di defense in depth?
+Sicurezza|Quali sono le principali minacce in un ambiente universitario?
+Sicurezza|Come si gestisce un incident response plan?
+Sicurezza|Spiega il funzionamento di un WAF (Web Application Firewall).
+Sicurezza|Come si implementa il principle of least privilege?
+GDPR|Quali sono i diritti fondamentali degli interessati secondo il GDPR?
+GDPR|Come si gestisce una data breach notification?
+GDPR|Qual è il ruolo del DPO e quando è obbligatorio?
+GDPR|Come si implementa il principio di privacy by design?
+GDPR|Quali sono i requisiti per il trasferimento di dati extra-UE?
+CAD|Quali sono i principali obiettivi del Codice dell'Amministrazione Digitale?
+CAD|Come si gestisce la conservazione dei documenti digitali?
+CAD|Quali sono i requisiti per la firma digitale secondo il CAD?
+CAD|Come si implementa il fascicolo informatico?
+CAD|Quali sono le linee guida per l'accessibilità dei siti web pubblici?
+AGID|Quali sono le misure minime di sicurezza ICT secondo AGID?
+AGID|Come si implementa il piano di disaster recovery secondo le linee guida AGID?
+AGID|Quali sono i requisiti per i sistemi di conservazione secondo AGID?
+AGID|Come si gestisce l'inventario degli asset ICT secondo AGID?
+AGID|Quali sono le linee guida per il cloud computing nella PA?
+Rete Ateneo|Come si gestisce la sicurezza della rete wifi di Ateneo?
+Rete Ateneo|Quali sono le policy di utilizzo della rete per gli studenti?
+Rete Ateneo|Come si implementa la QoS sulla rete di Ateneo?
+Rete Ateneo|Quali sono i servizi di rete critici per l'Ateneo?
+Rete Ateneo|Come si gestisce l'accesso alla rete per gli ospiti?
+Sistemi Operativi|Come si automatizza il deployment di Windows in un laboratorio?
+Sistemi Operativi|Quali sono le principali differenze tra MacOS e Linux nella gestione dei permessi?
+Sistemi Operativi|Come si implementa una policy di gruppo in ambiente Windows?
+Sistemi Operativi|Come si gestisce il backup centralizzato su sistemi eterogenei?
+Sistemi Operativi|Quali sono le best practice per la gestione degli aggiornamenti?
+Identità Digitale|Come funziona il single sign-on con SAML?
+Identità Digitale|Come si integra SPID nel sistema di autenticazione dell'Ateneo?
+Identità Digitale|Quali sono i vantaggi dell'utilizzo di OAuth 2.0?
+Identità Digitale|Come si gestisce il lifecycle delle identità digitali?
+Identità Digitale|Come si implementa il multi-factor authentication?
+Laboratori|Come si gestisce il deployment di software nei laboratori?
+Laboratori|Quali sono le best practice per la sicurezza dei laboratori didattici?
+Laboratori|Come si implementa il controllo remoto delle postazioni?
+Laboratori|Come si gestisce il tracking dell'utilizzo dei laboratori?
+Laboratori|Quali sono i vantaggi dei laboratori virtuali?
+Asset Management|Come si implementa un sistema di asset discovery automatico?
+Asset Management|Quali sono le best practice per il lifecycle management degli asset?
+Asset Management|Come si gestisce l'inventario software in una grande organizzazione?
+Asset Management|Come si automatizza il processo di patch management?
+Asset Management|Quali sono i KPI più importanti nel asset management?
+Networking|Come si implementa la segmentazione della rete per isolamento dei laboratori?
+Virtualizzazione|Come si ottimizza la performance delle macchine virtuali?
+Cloud Computing|Come si implementa un private cloud con OpenStack?
+Metodologie Agili|Come si gestisce la documentazione in un progetto Agile?
+VOIP|Come si dimensiona una infrastruttura VOIP per un grande Ateneo?
+DevOps|Come si implementa il continuous testing?
+Sicurezza|Come si gestisce la security awareness training?
+GDPR|Come si gestisce il registro dei trattamenti?
+CAD|Come si implementa la dematerializzazione dei processi?
+AGID|Come si implementa il piano di continuità operativa?
+Rete Ateneo|Come si gestisce il monitoring della rete?
+Sistemi Operativi|Come si gestisce la virtualizzazione dei desktop?
+Identità Digitale|Come si implementa la federazione delle identità?
+Laboratori|Come si gestisce il provisioning automatico dei laboratori?
+Asset Management|Come si implementa il software license management?
+Networking|Come si implementa IPv6 in una rete esistente?
+Virtualizzazione|Come si gestisce il capacity planning in ambiente virtuale?
+Cloud Computing|Come si implementa il cloud monitoring?
+Metodologie Agili|Come si gestisce il rischio in un progetto Agile?
+VOIP|Come si implementa la registrazione delle chiamate VOIP?
+DevOps|Come si implementa il blue-green deployment?
+Sicurezza|Come si gestisce la vulnerability assessment?
+GDPR|Come si implementa il data retention policy?
+CAD|Come si gestisce l'archivio digitale?
+AGID|Come si implementa il piano di backup secondo AGID?
+Rete Ateneo|Come si gestisce il capacity planning della rete?
+Sistemi Operativi|Come si implementa il software deployment?
+Identità Digitale|Come si gestisce il password policy?
+Laboratori|Come si implementa il thin client nei laboratori?
+Asset Management|Come si gestisce l'obsolescenza degli asset?
