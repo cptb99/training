@@ -57,33 +57,7 @@ Organi di Governo e Strutture|Quali sono le funzioni della Giunta di Dipartiment
 Organi di Governo e Strutture|Quali sono le procedure per la costituzione di Centri Interdipartimentali di Ricerca?
 Organi di Governo e Strutture|Quali sono i compiti del Presidente della Scuola?
 Organi di Governo e Strutture|Quali sono le modalità di finanziamento delle Scuole?
-Organi di Governo e Strutture|Quali sono le procedure per la modifica dello Statuto dell'Università? 
-Skip to content
-Navigation Menu
-
-Code
-Issues
-Pull requests
-Commit a6f8480
-Beta
-Give feedback
-cptb99
-cptb99
-authored
-last week
-Verified
-Update questions.txt
-main
-1 parent 
-15f27ef
- commit 
-a6f8480
-1 file changed
-‎questions.txt
-+200
--109
-Original file line number	Diff line number	Diff line change
-@@ -1,109 +1,200 @@
+Organi di Governo e Strutture|Quali sono le procedure per la modifica dello Statuto dell'Università?
 Networking|Quali sono i principali vantaggi dell'utilizzo del protocollo IPv6 rispetto a IPv4?
 Networking|Spiega il funzionamento del protocollo OSPF (Open Shortest Path First) nel routing.
 Networking|Come funziona il meccanismo di NAT (Network Address Translation) e quali sono i suoi principali utilizzi?
