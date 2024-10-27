@@ -1,200 +1,60 @@
-1 - Networking | Qual è la differenza tra uno switch e un router in una rete di ampie dimensioni?
-2 - Networking | Come funziona il protocollo di routing BGP in una rete distribuita su più territori?
-3 - Networking | Spiega il processo di subnetting e come viene applicato in una rete di grandi dimensioni.
-4 - Networking | Quali sono i principali protocolli utilizzati per la gestione delle reti wireless?
-5 - Networking | Come gestiresti la segmentazione della rete in un campus universitario con molteplici edifici?
-6 - Networking | Qual è la differenza tra IPv4 e IPv6 e come si applicano in reti su larga scala?
-7 - Networking | Descrivi i meccanismi di failover nel routing e la loro importanza in una rete distribuita.
-8 - Networking | Come viene gestito il Quality of Service (QoS) in una rete wireless ad alta densità di utenti?
-9 - Networking | Quali strumenti utilizzeresti per monitorare il traffico di rete in una rete distribuita geograficamente?
-10 - Virtualizzazione | Spiega la differenza tra virtualizzazione full, para-virtualizzazione e containerizzazione.
-11 - Virtualizzazione | Quali sono i vantaggi della virtualizzazione dei server in un contesto universitario?
-12 - Virtualizzazione | Come si implementa una soluzione di virtual desktop infrastructure (VDI)?
-13 - Virtualizzazione | Quali sono le principali differenze tra VMware, Hyper-V e KVM?
-14 - Virtualizzazione | Come gestiresti la migrazione di server fisici a macchine virtuali (P2V)?
-15 - Cloud Computing | Quali sono le differenze tra i modelli di cloud pubblico, privato e ibrido?
-16 - Cloud Computing | Spiega il concetto di Infrastructure as a Service (IaaS) e fornisci un esempio pratico.
-17 - Cloud Computing | Quali sono i principali vantaggi del cloud computing per le istituzioni universitarie?
-18 - Cloud Computing | Come garantire la sicurezza dei dati nel cloud?
-19 - Cloud Computing | Che cos'è un'architettura a microservizi e come si applica nel cloud computing?
-20 - Metodologie Agili | Quali sono i principi fondamentali delle metodologie agili?
-21 - Metodologie Agili | Qual è la differenza tra Scrum e Kanban?
-22 - Metodologie Agili | Come applicheresti un framework agile nello sviluppo di un progetto software per un'università?
-23 - Metodologie Agili | Come si gestisce il cambiamento dei requisiti in un progetto agile?
-24 - Metodologie Agili | Qual è il ruolo del Product Owner in un team Scrum?
-25 - VOIP | Quali sono i principali protocolli utilizzati nella telefonia VOIP?
-26 - VOIP | Come viene gestita la qualità del servizio in una rete VOIP?
-27 - VOIP | Quali sono i vantaggi del passaggio da una telefonia tradizionale a una soluzione VOIP?
-28 - VOIP | Come si configura un centralino IP in una rete universitaria distribuita?
-29 - VOIP | Quali sono le principali vulnerabilità di sicurezza nelle reti VOIP?
-30 - DevOps | Che cos'è il Continuous Integration e come si implementa?
-31 - DevOps | Quali sono i principali strumenti utilizzati per il Continuous Delivery?
-32 - DevOps | Come utilizzeresti Docker in un processo di Continuous Integration?
-33 - DevOps | Qual è la differenza tra Continuous Deployment e Continuous Delivery?
-34 - DevOps | Quali sono i vantaggi di adottare una cultura DevOps in un'organizzazione?
-35 - Sicurezza informatica | Quali sono i principali tipi di attacchi informatici su una rete di grandi dimensioni?
-36 - Sicurezza informatica | Come proteggeresti una rete universitaria da un attacco DDoS?
-37 - Sicurezza informatica | Quali sono i principali strumenti di monitoraggio della sicurezza informatica?
-38 - Sicurezza informatica | Qual è l'importanza di implementare un sistema di intrusion detection (IDS) in una rete universitaria?
-39 - Sicurezza informatica | Cosa si intende per "security by design" e come si applica nello sviluppo di un'infrastruttura IT?
-40 - GDPR | Quali sono le principali novità introdotte dal GDPR rispetto alla normativa precedente?
-41 - GDPR | Come gestiresti i dati personali degli studenti in conformità con il GDPR?
-42 - GDPR | Cosa si intende per "diritto all'oblio" nel contesto del GDPR?
-43 - GDPR | Quali sono le misure di sicurezza richieste dal GDPR per il trattamento dei dati sensibili?
-44 - GDPR | Cosa fare in caso di violazione dei dati personali secondo il GDPR?
-45 - CAD | Qual è lo scopo del Codice dell'Amministrazione Digitale?
-46 - CAD | Come si applicano le linee guida AGID nell'implementazione dei servizi digitali nelle università?
-47 - CAD | Cosa si intende per "documento informatico" secondo il CAD?
-48 - CAD | Qual è il ruolo della firma digitale nel contesto del CAD?
-49 - CAD | Come viene regolamentata la conservazione dei documenti digitali secondo il CAD?
-50 - Misure di Sicurezza AGID | Quali sono le misure minime di sicurezza ICT per le pubbliche amministrazioni previste dalla direttiva AGID?
-51 - Misure di Sicurezza AGID | Come si applicano le linee guida AGID per la sicurezza informatica in una rete universitaria?
-52 - Misure di Sicurezza AGID | Quali sono le sanzioni previste in caso di mancato rispetto delle direttive AGID?
-53 - Misure di Sicurezza AGID | Qual è il ruolo dell'AGID nella governance digitale delle pubbliche amministrazioni?
-54 - Misure di Sicurezza AGID | Come si attua un piano di continuità operativa secondo le direttive AGID?
-55 - Regolamento di Ateneo | Quali sono i punti principali del regolamento sull'uso della rete di Ateneo dell'Università di Palermo?
-56 - Regolamento di Ateneo | Come viene gestita la sicurezza dell'accesso alla rete di Ateneo?
-57 - Regolamento di Ateneo | Quali sono le responsabilità degli utenti nell'uso dei servizi internet dell'Università di Palermo?
-58 - Regolamento di Ateneo | Come viene garantito l'uso corretto delle risorse di rete secondo il regolamento dell'Università di Palermo?
-59 - Regolamento di Ateneo | Quali sono le misure disciplinari in caso di violazione del regolamento della rete di Ateneo?
-60 - Sistemi Operativi | Quali sono le principali differenze tra Windows e Linux in un contesto di gestione IT?
-61 - Sistemi Operativi | Come si gestisce la sicurezza dei sistemi operativi Mac OS X in un ambiente aziendale?
-62 - Sistemi Operativi | Quali strumenti utilizzeresti per il patch management su una rete con diversi sistemi operativi?
-63 - Sistemi Operativi | Come garantire la sicurezza degli endpoint su una rete con sistemi operativi misti?
-64 - Sistemi Operativi | Quali sono le principali differenze tra Windows Server e Linux per la gestione di una rete universitaria?
-65 - Identità Digitale | Come gestiresti l'implementazione di un sistema di Single Sign-On (SSO) in una grande organizzazione?
-66 - Identità Digitale | Quali sono i vantaggi di utilizzare un sistema di autenticazione a due fattori in un contesto universitario?
-67 - Identità Digitale | Come si gestiscono le identità digitali per gli studenti e il personale in un'università?
-68 - Identità Digitale | Quali sono i rischi legati alla gestione delle identità digitali in un'organizzazione complessa?
-69 - Identità Digitale | Come viene implementata l'autenticazione federata in un contesto universitario?
-70 - Gestione dei Laboratori | Come organizzeresti la gestione di un laboratorio informatico fisico per la didattica?
-71 - Gestione dei Laboratori | Quali sono i vantaggi della virtualizzazione dei laboratori informatici per la didattica?
-72 - Gestione dei Laboratori | Quali strumenti utilizzeresti per monitorare le attività nei laboratori informatici?
-73 - Gestione dei Laboratori | Come garantiresti la sicurezza dei dati nei laboratori informatici virtualizzati?
-74 - Gestione dei Laboratori | Quali strategie adotteresti per l'aggiornamento periodico del software in un laboratorio informatico?
-75 - Asset Inventory | Quali sono i principali benefici di un sistema di asset inventory in un'istituzione con numerosi dispositivi?
-76 - Asset Inventory | Come gestiresti l'implementazione di un sistema di asset management in una grande organizzazione?
-77 - Asset Inventory | Quali strumenti software utilizzeresti per la gestione degli asset in una rete di ampie dimensioni?
-78 - Asset Inventory | Quali sono i rischi legati a una gestione inefficace degli asset IT in un'università?
-79 - Asset Inventory | Come si integrano i sistemi di asset management con i sistemi di sicurezza informatica?
-80 - Networking | Come gestiresti la configurazione delle VLAN in una rete universitaria con più campus?
-81 - Networking | Quali sono le principali differenze tra reti LAN, MAN e WAN?
-82 - Virtualizzazione | Come si implementa una soluzione di backup per macchine virtuali?
-83 - Cloud Computing | Quali sono i principali svantaggi dell'adozione del cloud computing in una pubblica amministrazione?
-84 - Sicurezza Informatica | Come garantire la sicurezza dei dati in transito su una rete universitaria?
-85 - GDPR | Quali sono i requisiti per il consenso al trattamento dei dati personali secondo il GDPR?
-86 - CAD | Cosa si intende per interoperabilità dei sistemi informatici nella Pubblica Amministrazione?
-87 - Misure di Sicurezza AGID | Come vengono classificate le informazioni critiche nelle linee guida AGID?
-88 - VOIP | Quali sono le sfide nell'implementazione del VOIP in una rete universitaria?
-89 - DevOps | Come si utilizza Jenkins in una pipeline di Continuous Integration?
-90 - Sicurezza Informatica | Cosa si intende per gestione del rischio informatico e come lo applichi in un contesto universitario?
-91 - Cloud Computing | Come implementeresti una soluzione di disaster recovery nel cloud?
-92 - Virtualizzazione | Come gestiresti un'architettura di storage condiviso in un'infrastruttura virtualizzata?
-93 - Networking | Qual è il ruolo del protocollo DHCP in una rete di ampie dimensioni?
-94 - DevOps | Come viene utilizzato Ansible per automatizzare la configurazione di server?
-95 - Sicurezza Informatica | Come implementeresti la segmentazione di rete per migliorare la sicurezza in una rete universitaria?
-96 - Asset Inventory | Qual è il ruolo della tracciabilità degli asset in un contesto di sicurezza IT?
-97 - Cloud Computing | Come bilanceresti il carico tra diversi provider cloud in un'architettura multicloud?
-98 - Identità Digitale | Cosa si intende per "provisioning" e "deprovisioning" nel contesto della gestione delle identità digitali?
-99 - GDPR | Come viene gestito il trasferimento di dati personali verso paesi terzi secondo il GDPR?
-100 - CAD | Come viene regolata la firma elettronica nel contesto del CAD?
-1 - Networking | Come si configura un protocollo di routing dinamico come OSPF in una rete di grandi dimensioni?
-2 - Networking | Quali sono i principali problemi di scalabilità nelle reti wireless distribuite su più edifici?
-3 - Networking | Come gestiresti il roaming degli utenti tra diversi access point in una rete wireless universitaria?
-4 - Networking | Quali sono i rischi associati all'utilizzo del NAT in una rete di grandi dimensioni?
-5 - Networking | Come utilizzeresti i firewall per segmentare una rete universitaria in zone di sicurezza?
-6 - Networking | Quali sono i principali vantaggi e svantaggi dell'implementazione di MPLS in una rete distribuita?
-7 - Networking | Come gestiresti l'implementazione di una rete VPN per collegare diverse sedi di un'università?
-8 - Networking | Come funziona il protocollo IEEE 802.1X e come si applica alla sicurezza di una rete wireless?
-9 - Networking | Qual è il ruolo delle tabelle di routing nei router e come vengono aggiornate in una rete dinamica?
-10 - Networking | Come gestiresti la ridondanza dei collegamenti in una rete di ampie dimensioni per evitare single points of failure?
-11 - Virtualizzazione | Quali sono i principali strumenti di gestione delle macchine virtuali in un'infrastruttura VMware?
-12 - Virtualizzazione | Come configureresti un cluster di macchine virtuali per garantire alta disponibilità e failover?
-13 - Virtualizzazione | Quali sono i principali svantaggi della virtualizzazione desktop rispetto a soluzioni fisiche?
-14 - Virtualizzazione | Come gestiresti il bilanciamento delle risorse in un ambiente virtualizzato ad alta densità di utenti?
-15 - Virtualizzazione | Come utilizzeresti una soluzione di storage software-defined (SDS) in un'infrastruttura virtualizzata?
-16 - Cloud Computing | Quali sono le differenze tra Platform as a Service (PaaS) e Software as a Service (SaaS)?
-17 - Cloud Computing | Quali sono i rischi di dipendenza da un singolo fornitore di servizi cloud (vendor lock-in)?
-18 - Cloud Computing | Come gestiresti la compliance normativa di un'istituzione universitaria che utilizza servizi cloud?
-19 - Cloud Computing | Quali sono i principali strumenti di automazione per la gestione delle risorse cloud?
-20 - Cloud Computing | Come gestiresti l'integrazione tra servizi cloud e sistemi legacy in un'università?
-21 - Metodologie Agili | Come si calcola la velocità (velocity) in un team Scrum e a cosa serve?
-22 - Metodologie Agili | Quali sono le principali cerimonie di Scrum e quale scopo hanno?
-23 - Metodologie Agili | Come si gestiscono i conflitti all'interno di un team agile?
-24 - Metodologie Agili | Quali sono i vantaggi dell'adozione di Kanban per un team di supporto IT?
-25 - Metodologie Agili | Come si gestiscono i rischi in un progetto agile?
-26 - VOIP | Qual è il ruolo di un SIP server in un'infrastruttura VOIP?
-27 - VOIP | Come gestiresti la priorità del traffico VOIP su una rete congestionata?
-28 - VOIP | Come configureresti una rete VOIP per supportare la crittografia delle chiamate?
-29 - VOIP | Quali sono i vantaggi dell'utilizzo di telefoni software (softphone) rispetto ai telefoni fisici in una rete VOIP?
-30 - VOIP | Quali strumenti utilizzeresti per monitorare e diagnosticare i problemi di una rete VOIP?
-31 - DevOps | Come configureresti un pipeline di Continuous Integration utilizzando GitLab CI/CD?
-32 - DevOps | Qual è il ruolo del versionamento del codice in un processo DevOps?
-33 - DevOps | Come utilizzeresti Kubernetes in un contesto di Continuous Deployment?
-34 - DevOps | Quali sono le migliori pratiche per il monitoraggio e il logging in un ambiente DevOps?
-35 - DevOps | Quali sono i principali vantaggi di un'infrastruttura come codice (IaC) in un approccio DevOps?
-36 - Sicurezza Informatica | Quali tecniche utilizzeresti per proteggere i dati su dispositivi mobili in un contesto universitario?
-37 - Sicurezza Informatica | Come gestiresti la crittografia dei dati in una rete distribuita?
-38 - Sicurezza Informatica | Come si configura un sistema SIEM per il monitoraggio della sicurezza in una rete universitaria?
-39 - Sicurezza Informatica | Qual è il ruolo della gestione delle patch nella sicurezza di una rete distribuita?
-40 - Sicurezza Informatica | Come utilizzeresti un honeypot per migliorare la sicurezza di una rete universitaria?
-41 - GDPR | Cosa si intende per Data Protection Officer (DPO) e qual è il suo ruolo secondo il GDPR?
-42 - GDPR | Come si gestiscono i registri delle attività di trattamento dei dati secondo il GDPR?
-43 - GDPR | Quali misure adotteresti per garantire il diritto alla portabilità dei dati secondo il GDPR?
-44 - GDPR | Quali sono le responsabilità del titolare del trattamento dei dati secondo il GDPR?
-45 - GDPR | Come gestiresti la protezione dei dati personali negli ambienti di cloud computing in conformità con il GDPR?
-46 - CAD | Come viene definito il concetto di "dominio applicativo" nel contesto del CAD?
-47 - CAD | Qual è l'importanza della dematerializzazione nel contesto del Codice dell'Amministrazione Digitale?
-48 - CAD | Come si garantisce l'accessibilità dei servizi digitali nella Pubblica Amministrazione secondo il CAD?
-49 - CAD | Qual è il ruolo dei conservatori accreditati nel processo di conservazione digitale secondo il CAD?
-50 - CAD | Come si gestisce il ciclo di vita di un documento informatico secondo il CAD?
-51 - Misure di Sicurezza AGID | Quali sono i requisiti minimi di autenticazione per l'accesso ai sistemi informatici nelle PA secondo le linee guida AGID?
-52 - Misure di Sicurezza AGID | Qual è l'importanza della continuità operativa nelle linee guida AGID per la sicurezza ICT?
-53 - Misure di Sicurezza AGID | Come gestiresti la protezione dei dati sensibili nelle reti di una pubblica amministrazione?
-54 - Misure di Sicurezza AGID | Quali strumenti utilizzeresti per la protezione degli endpoint in una rete PA in conformità alle linee guida AGID?
-55 - Misure di Sicurezza AGID | Come si attua la gestione delle vulnerabilità nei sistemi IT delle pubbliche amministrazioni?
-56 - Regolamento di Ateneo | Quali politiche adotteresti per l'accesso alla rete di Ateneo da dispositivi mobili?
-57 - Regolamento di Ateneo | Come gestiresti l'implementazione di una rete guest in conformità al regolamento di Ateneo?
-58 - Regolamento di Ateneo | Quali misure tecniche adotteresti per prevenire l'uso improprio della rete universitaria?
-59 - Regolamento di Ateneo | Come garantiresti la conformità della rete di Ateneo alle leggi italiane ed europee?
-60 - Regolamento di Ateneo | Quali sono le principali limitazioni imposte dal regolamento di Ateneo sull'uso della rete?
-61 - Sistemi Operativi | Come configureresti una policy di gruppo (GPO) su Windows per migliorare la sicurezza di una rete?
-62 - Sistemi Operativi | Come gestiresti l'aggiornamento centralizzato di sistemi Linux in un ambiente misto?
-63 - Sistemi Operativi | Quali strumenti utilizzeresti per monitorare le prestazioni dei sistemi operativi Mac OS X?
-64 - Sistemi Operativi | Qual è l'importanza del controllo degli accessi basato sui ruoli (RBAC) in un sistema operativo Linux?
-65 - Sistemi Operativi | Come gestiresti l'autenticazione biometrica su un sistema operativo Windows?
-66 - Identità Digitale | Quali sono i principali standard di autenticazione federata utilizzati nelle università?
-67 - Identità Digitale | Come implementeresti un sistema di identità digitale per l'accesso ai servizi cloud in un'università?
-68 - Identità Digitale | Quali sono i principali rischi legati all'utilizzo di password deboli in un sistema di identità digitale?
-69 - Identità Digitale | Come gestiresti il ciclo di vita di un'identità digitale in un'organizzazione complessa?
-70 - Identità Digitale | Quali strumenti utilizzeresti per garantire l'audit e il monitoraggio delle identità digitali?
-71 - Gestione dei Laboratori | Come pianificheresti l'allocazione delle risorse in un laboratorio virtualizzato per la didattica?
-72 - Gestione dei Laboratori | Quali politiche di backup adotteresti per un laboratorio informatico virtuale?
-73 - Gestione dei Laboratori | Quali strumenti utilizzeresti per il deployment rapido di macchine virtuali in un laboratorio didattico?
-74 - Gestione dei Laboratori | Come garantiresti l'isolamento delle reti nei laboratori didattici virtualizzati?
-75 - Gestione dei Laboratori | Quali sono le principali sfide nell'aggiornamento dei software didattici in un laboratorio informatico?
-76 - Asset Inventory | Come gestiresti il ciclo di vita di un asset informatico in una grande organizzazione?
-77 - Asset Inventory | Quali criteri adotteresti per classificare e catalogare gli asset in una rete universitaria?
-78 - Asset Inventory | Come utilizzeresti un sistema di asset management per ottimizzare la sicurezza di una rete?
-79 - Asset Inventory | Quali sono i vantaggi di un sistema automatizzato di inventario degli asset rispetto alla gestione manuale?
-80 - Asset Inventory | Come gestiresti l'integrazione di sistemi di asset management con piattaforme di monitoraggio della rete?
-81 - Networking | Quali sono i principali vantaggi dell'utilizzo di reti SDN (Software Defined Networking) in un ambiente universitario?
-82 - Networking | Come si può mitigare il rischio di attacchi DDoS in una rete universitaria?
-83 - Networking | Quali sono i vantaggi dell'utilizzo di reti mesh in un campus universitario?
-84 - Networking | Come configureresti una rete wireless ad alta densità per eventi universitari?
-85 - Networking | Come monitoreresti la latenza e la qualità del servizio in una rete wireless distribuita?
-86 - Virtualizzazione | Quali sono i vantaggi dell'utilizzo di container rispetto alle macchine virtuali tradizionali?
-87 - Virtualizzazione | Come garantiresti l'isolamento delle risorse in un'infrastruttura virtualizzata multi-tenant?
-88 - Cloud Computing | Quali sono le principali differenze tra cloud privato e cloud pubblico?
-89 - Cloud Computing | Come gestiresti la compliance dei dati in un ambiente multi-cloud?
-90 - Cloud Computing | Quali strategie utilizzeresti per la migrazione di dati e applicazioni da un datacenter on-premises al cloud?
-91 - Cloud Computing | Quali strumenti utilizzeresti per il monitoraggio delle risorse cloud in un contesto universitario?
-92 - Cloud Computing | Come implementeresti politiche di risparmio sui costi in un'infrastruttura cloud?
-93 - DevOps | Come implementeresti un'infrastruttura CI/CD utilizzando strumenti open source?
-94 - DevOps | Quali sono i vantaggi dell'utilizzo di microservizi in un'architettura DevOps?
-95 - DevOps | Come gestiresti la sicurezza in un pipeline CI/CD?
-96 - DevOps | Qual è il ruolo del cloud nella cultura DevOps?
-97 - DevOps | Quali sono le principali sfide nell'adozione di DevOps in un ambiente di sviluppo tradizionale?
-98 - Sicurezza Informatica | Come proteggeresti le reti universitarie dagli attacchi di phishing?
-99 - Sicurezza Informatica | Qual è il ruolo della gestione delle vulnerabilità in una strategia di sicurezza proattiva?
-100 - Sicurezza Informatica | Quali sono i vantaggi dell'utilizzo di strumenti di sicurezza basati sull'intelligenza artificiale?
+Principi Generali|Quali sono i principi fondamentali a cui si ispira l'Università degli Studi di Palermo?
+Principi Generali|In che modo l'Università garantisce il rispetto del principio delle pari opportunità?
+Principi Generali|Qual è l'impegno dell'Università nei confronti del miglioramento continuo del sistema di assicurazione della qualità? 
+Principi Generali|Come si impegna l'Università a valutare le richieste di riconoscimento di titoli esteri?
+Principi Generali|Quali principi guidano l'Università nella promozione e nello sviluppo della didattica e della ricerca scientifica?
+Principi Generali|Come si concretizza l'impegno dell'Università nella dimensione internazionale della didattica e della ricerca?
+Principi Generali|In che modo l'Università si impegna a sostenere il diritto allo studio?
+Principi Generali|Quali interventi specifici sono previsti dal Regolamento di Ateneo a favore degli studenti capaci e meritevoli?
+Principi Generali|Come può l'Università avvalersi della collaborazione degli studenti? 
+Principi Generali|Quali principi ispirano l'attività amministrativa dell'Ateneo?
+Principi Generali|Come si impegna l'Università a promuovere la trasparenza e l'accesso alle informazioni?
+Principi Generali|In che modo l'Università favorisce la partecipazione degli studenti alla vita dell'Ateneo? 
+Principi Generali|Quali sono i valori etici che guidano la comunità universitaria?
+Principi Generali|Come si impegna l'Università a promuovere la sostenibilità ambientale?
+Principi Generali|Quali sono i principi che guidano l'Università nella gestione del proprio patrimonio? 
+Principi Generali|Come si impegna l'Università a tutelare la salute e la sicurezza dei propri dipendenti e studenti? 
+Principi Generali|Qual è il ruolo dell'Università nella promozione del dialogo interculturale? 
+Principi Generali|Come si impegna l'Università a contrastare ogni forma di discriminazione?
+Principi Generali|In che modo l'Università favorisce l'inclusione di persone con disabilità?
+Principi Generali|Quali sono i principi che guidano l'Università nella gestione dei dati personali? 
+Disposizioni Generali|Quali sono le fonti di finanziamento dell'Università?
+Disposizioni Generali|Come possono essere utilizzate le entrate proprie dell'Università?
+Disposizioni Generali|In quali casi l'Università può ricorrere a mutui o altre forme di finanziamento?
+Disposizioni Generali|Quali forme di collaborazione con enti esterni può promuovere l'Università?
+Disposizioni Generali|In quali casi l'Università può costituire organismi in-house? 
+Disposizioni Generali|Quali sono le condizioni per la partecipazione dell'Università a Società di Capitali?
+Disposizioni Generali|Quali organi deliberano la partecipazione a Società di Capitali?
+Disposizioni Generali|A quali condizioni possono essere stipulati i rapporti con enti del terzo settore, fondazioni o associazioni?
+Disposizioni Generali|Quali sono i criteri per l'utilizzo dei fondi destinati alla ricerca?
+Disposizioni Generali|In quali casi l'Università può dismettere beni patrimoniali?
+Disposizioni Generali|Quali sono le modalità di rendicontazione delle attività finanziate con fondi esterni? 
+Disposizioni Generali|Quali sono i limiti previsti per la stipula di convenzioni con soggetti privati?
+Disposizioni Generali|In quali casi l'Università può esercitare il diritto di recesso da consorzi o società?
+Disposizioni Generali|Quali sono le responsabilità degli organi di governo in materia di bilancio?
+Disposizioni Generali|Quali sono le modalità di controllo sulla gestione finanziaria dell'Università?
+Disposizioni Generali|Quali sono le procedure per l'affidamento di incarichi di consulenza? 
+Organi di Governo e Strutture|Quali sono i requisiti per l'eleggibilità e la nomina negli organi di governo e nelle strutture didattiche e di ricerca?
+Organi di Governo e Strutture|Quali sono le incompatibilità previste per le cariche negli organi di governo e nelle strutture didattiche e di ricerca?
+Organi di Governo e Strutture|Quali sono le modalità di elezione dei rappresentanti degli studenti negli organi di governo?
+Organi di Governo e Strutture|Quali sono le cause di decadenza dai membri degli organi di governo?
+Organi di Governo e Strutture|Quali sono i poteri del Rettore in materia di nomina di prorettori e delegati?
+Organi di Governo e Strutture|Quali sono le procedure per la presentazione e l'approvazione dei regolamenti di Ateneo?
+Organi di Governo e Strutture|Quali sono le competenze del Senato Accademico?
+Organi di Governo e Strutture|Quali sono le competenze del Consiglio di Amministrazione?
+Organi di Governo e Strutture|Quali sono i compiti del Consiglio del Corso di Studio?
+Organi di Governo e Strutture|Quali sono le competenze del Consiglio della Scuola?
+Organi di Governo e Strutture|Quali sono le funzioni del Direttore Generale?
+Organi di Governo e Strutture|Quali sono i compiti del Collegio dei Revisori dei Conti?
+Organi di Governo e Strutture|Quali sono le funzioni del Nucleo di Valutazione?
+Organi di Governo e Strutture|Quali sono le finalità del Comitato Unico di Garanzia?
+Organi di Governo e Strutture|Quali sono i compiti del Garante dei diritti delle Studentesse e degli Studenti?
+Organi di Governo e Strutture|Come si articola l'offerta formativa dell'Università?
+Organi di Governo e Strutture|Quali sono i compiti della Commissione paritetica Docenti-Studenti?
+Organi di Governo e Strutture|Quali sono le modalità di elezione del Direttore di Dipartimento?
+Organi di Governo e Strutture|Quali sono i compiti del Consiglio di Dipartimento?
+Organi di Governo e Strutture|Quali sono le funzioni della Giunta di Dipartimento?
+Organi di Governo e Strutture|Quali sono le procedure per la costituzione di Centri Interdipartimentali di Ricerca?
+Organi di Governo e Strutture|Quali sono i compiti del Presidente della Scuola?
+Organi di Governo e Strutture|Quali sono le modalità di finanziamento delle Scuole?
+Organi di Governo e Strutture|Quali sono le procedure per la modifica dello Statuto dell'Università? 
