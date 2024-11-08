@@ -1,369 +1,394 @@
-Principi Generali|Quali sono i principi fondamentali a cui si ispira l'Università degli Studi di Palermo?
-Principi Generali|In che modo l'Università garantisce il rispetto del principio delle pari opportunità?
-Principi Generali|Qual è l'impegno dell'Università nei confronti del miglioramento continuo del sistema di assicurazione della qualità? 
-Principi Generali|Come si impegna l'Università a valutare le richieste di riconoscimento di titoli esteri?
-Principi Generali|Quali principi guidano l'Università nella promozione e nello sviluppo della didattica e della ricerca scientifica?
-Principi Generali|Come si concretizza l'impegno dell'Università nella dimensione internazionale della didattica e della ricerca?
-Principi Generali|In che modo l'Università si impegna a sostenere il diritto allo studio?
-Principi Generali|Quali interventi specifici sono previsti dal Regolamento di Ateneo a favore degli studenti capaci e meritevoli?
-Principi Generali|Come può l'Università avvalersi della collaborazione degli studenti? 
-Principi Generali|Quali principi ispirano l'attività amministrativa dell'Ateneo?
-Principi Generali|Come si impegna l'Università a promuovere la trasparenza e l'accesso alle informazioni?
-Principi Generali|In che modo l'Università favorisce la partecipazione degli studenti alla vita dell'Ateneo? 
-Principi Generali|Quali sono i valori etici che guidano la comunità universitaria?
-Principi Generali|Come si impegna l'Università a promuovere la sostenibilità ambientale?
-Principi Generali|Quali sono i principi che guidano l'Università nella gestione del proprio patrimonio? 
-Principi Generali|Come si impegna l'Università a tutelare la salute e la sicurezza dei propri dipendenti e studenti? 
-Principi Generali|Qual è il ruolo dell'Università nella promozione del dialogo interculturale? 
-Principi Generali|Come si impegna l'Università a contrastare ogni forma di discriminazione?
-Principi Generali|In che modo l'Università favorisce l'inclusione di persone con disabilità?
-Principi Generali|Quali sono i principi che guidano l'Università nella gestione dei dati personali? 
-Disposizioni Generali|Quali sono le fonti di finanziamento dell'Università?
-Disposizioni Generali|Come possono essere utilizzate le entrate proprie dell'Università?
-Disposizioni Generali|In quali casi l'Università può ricorrere a mutui o altre forme di finanziamento?
-Disposizioni Generali|Quali forme di collaborazione con enti esterni può promuovere l'Università?
-Disposizioni Generali|In quali casi l'Università può costituire organismi in-house? 
-Disposizioni Generali|Quali sono le condizioni per la partecipazione dell'Università a Società di Capitali?
-Disposizioni Generali|Quali organi deliberano la partecipazione a Società di Capitali?
-Disposizioni Generali|A quali condizioni possono essere stipulati i rapporti con enti del terzo settore, fondazioni o associazioni?
-Disposizioni Generali|Quali sono i criteri per l'utilizzo dei fondi destinati alla ricerca?
-Disposizioni Generali|In quali casi l'Università può dismettere beni patrimoniali?
-Disposizioni Generali|Quali sono le modalità di rendicontazione delle attività finanziate con fondi esterni? 
-Disposizioni Generali|Quali sono i limiti previsti per la stipula di convenzioni con soggetti privati?
-Disposizioni Generali|In quali casi l'Università può esercitare il diritto di recesso da consorzi o società?
-Disposizioni Generali|Quali sono le responsabilità degli organi di governo in materia di bilancio?
-Disposizioni Generali|Quali sono le modalità di controllo sulla gestione finanziaria dell'Università?
-Disposizioni Generali|Quali sono le procedure per l'affidamento di incarichi di consulenza? 
-Organi di Governo e Strutture|Quali sono i requisiti per l'eleggibilità e la nomina negli organi di governo e nelle strutture didattiche e di ricerca?
-Organi di Governo e Strutture|Quali sono le incompatibilità previste per le cariche negli organi di governo e nelle strutture didattiche e di ricerca?
-Organi di Governo e Strutture|Quali sono le modalità di elezione dei rappresentanti degli studenti negli organi di governo?
-Organi di Governo e Strutture|Quali sono le cause di decadenza dai membri degli organi di governo?
-Organi di Governo e Strutture|Quali sono i poteri del Rettore in materia di nomina di prorettori e delegati?
-Organi di Governo e Strutture|Quali sono le procedure per la presentazione e l'approvazione dei regolamenti di Ateneo?
-Organi di Governo e Strutture|Quali sono le competenze del Senato Accademico?
-Organi di Governo e Strutture|Quali sono le competenze del Consiglio di Amministrazione?
-Organi di Governo e Strutture|Quali sono i compiti del Consiglio del Corso di Studio?
-Organi di Governo e Strutture|Quali sono le competenze del Consiglio della Scuola?
-Organi di Governo e Strutture|Quali sono le funzioni del Direttore Generale?
-Organi di Governo e Strutture|Quali sono i compiti del Collegio dei Revisori dei Conti?
-Organi di Governo e Strutture|Quali sono le funzioni del Nucleo di Valutazione?
-Organi di Governo e Strutture|Quali sono le finalità del Comitato Unico di Garanzia?
-Organi di Governo e Strutture|Quali sono i compiti del Garante dei diritti delle Studentesse e degli Studenti?
-Organi di Governo e Strutture|Come si articola l'offerta formativa dell'Università?
-Organi di Governo e Strutture|Quali sono i compiti della Commissione paritetica Docenti-Studenti?
-Organi di Governo e Strutture|Quali sono le modalità di elezione del Direttore di Dipartimento?
-Organi di Governo e Strutture|Quali sono i compiti del Consiglio di Dipartimento?
-Organi di Governo e Strutture|Quali sono le funzioni della Giunta di Dipartimento?
-Organi di Governo e Strutture|Quali sono le procedure per la costituzione di Centri Interdipartimentali di Ricerca?
-Organi di Governo e Strutture|Quali sono i compiti del Presidente della Scuola?
-Organi di Governo e Strutture|Quali sono le modalità di finanziamento delle Scuole?
-Organi di Governo e Strutture|Quali sono le procedure per la modifica dello Statuto dell'Università?
-Networking|Quali sono i principali vantaggi dell'utilizzo del protocollo IPv6 rispetto a IPv4?
-Networking|Spiega il funzionamento del protocollo OSPF (Open Shortest Path First) nel routing.
-Networking|Come funziona il meccanismo di NAT (Network Address Translation) e quali sono i suoi principali utilizzi?
-Networking|Descrivi la differenza tra routing statico e dinamico in una rete enterprise.
-Networking|Quali sono i principali standard IEEE 802.11 per le reti wireless e come si differenziano?
-Networking|Come si implementa la segmentazione di rete tramite VLAN?
-Networking|Spiega il funzionamento del protocollo ARP e il suo ruolo nelle reti IP.
-Virtualizzazione|Quali sono i principali hypervisor di tipo 1 e tipo 2 e come si differenziano?
-Virtualizzazione|Come funziona la migrazione live di una macchina virtuale?
-Virtualizzazione|Quali sono i vantaggi della virtualizzazione desktop (VDI) in ambito universitario?
-Virtualizzazione|Spiega il concetto di storage live migration in ambiente virtualizzato.
-Virtualizzazione|Come si implementa il backup delle macchine virtuali mantenendo la consistenza dei dati?
-Virtualizzazione|Quali sono le best practice per il dimensionamento delle risorse in ambiente virtualizzato?
-Cloud Computing|Spiega la differenza tra IaaS, PaaS e SaaS con esempi pratici.
-Cloud Computing|Come si gestisce la sicurezza in un ambiente multi-cloud?
-Cloud Computing|Quali sono i vantaggi e gli svantaggi del cloud ibrido?
-Cloud Computing|Come si implementa il disaster recovery in ambiente cloud?
-Cloud Computing|Spiega il concetto di cloud bursting e in quali scenari è utile.
-Cloud Computing|Come si gestisce l'autenticazione e l'autorizzazione in ambiente cloud?
-Metodologie Agili|Quali sono i principi fondamentali del manifesto Agile?
-Metodologie Agili|Come si gestisce un backlog in Scrum?
-Metodologie Agili|Qual è il ruolo del Product Owner in un team Agile?
-Metodologie Agili|Come si conducono efficacemente le daily stand-up meeting?
-Metodologie Agili|Spiega la differenza tra Scrum e Kanban.
-VOIP|Come funziona il protocollo SIP e quali sono i suoi componenti principali?
-VOIP|Quali sono le principali problematiche di QoS in una rete VOIP?
-VOIP|Come si implementa la ridondanza in un sistema VOIP enterprise?
-VOIP|Spiega il funzionamento dei codec audio più comuni in VOIP.
-VOIP|Come si gestisce l'integrazione tra VOIP e telefonia tradizionale?
-DevOps|Quali sono i principali strumenti di CI/CD e come si integrano tra loro?
-DevOps|Come si implementa un pipeline di deployment automatico?
-DevOps|Spiega il concetto di Infrastructure as Code.
-DevOps|Come si gestisce il versioning delle configurazioni in ambiente DevOps?
-DevOps|Quali sono le best practice per il monitoring in un ambiente CI/CD?
-Sicurezza|Come si implementa una strategia di defense in depth?
-Sicurezza|Quali sono le principali minacce in un ambiente universitario?
-Sicurezza|Come si gestisce un incident response plan?
-Sicurezza|Spiega il funzionamento di un WAF (Web Application Firewall).
-Sicurezza|Come si implementa il principle of least privilege?
-GDPR|Quali sono i diritti fondamentali degli interessati secondo il GDPR?
-GDPR|Come si gestisce una data breach notification?
-GDPR|Qual è il ruolo del DPO e quando è obbligatorio?
-GDPR|Come si implementa il principio di privacy by design?
-GDPR|Quali sono i requisiti per il trasferimento di dati extra-UE?
-CAD|Quali sono i principali obiettivi del Codice dell'Amministrazione Digitale?
-CAD|Come si gestisce la conservazione dei documenti digitali?
-CAD|Quali sono i requisiti per la firma digitale secondo il CAD?
-CAD|Come si implementa il fascicolo informatico?
-CAD|Quali sono le linee guida per l'accessibilità dei siti web pubblici?
-AGID|Quali sono le misure minime di sicurezza ICT secondo AGID?
-AGID|Come si implementa il piano di disaster recovery secondo le linee guida AGID?
-AGID|Quali sono i requisiti per i sistemi di conservazione secondo AGID?
-AGID|Come si gestisce l'inventario degli asset ICT secondo AGID?
-AGID|Quali sono le linee guida per il cloud computing nella PA?
-Rete Ateneo|Come si gestisce la sicurezza della rete wifi di Ateneo?
-Rete Ateneo|Quali sono le policy di utilizzo della rete per gli studenti?
-Rete Ateneo|Come si implementa la QoS sulla rete di Ateneo?
-Rete Ateneo|Quali sono i servizi di rete critici per l'Ateneo?
-Rete Ateneo|Come si gestisce l'accesso alla rete per gli ospiti?
-Sistemi Operativi|Come si automatizza il deployment di Windows in un laboratorio?
-Sistemi Operativi|Quali sono le principali differenze tra MacOS e Linux nella gestione dei permessi?
-Sistemi Operativi|Come si implementa una policy di gruppo in ambiente Windows?
-Sistemi Operativi|Come si gestisce il backup centralizzato su sistemi eterogenei?
-Sistemi Operativi|Quali sono le best practice per la gestione degli aggiornamenti?
-Identità Digitale|Come funziona il single sign-on con SAML?
-Identità Digitale|Come si integra SPID nel sistema di autenticazione dell'Ateneo?
-Identità Digitale|Quali sono i vantaggi dell'utilizzo di OAuth 2.0?
-Identità Digitale|Come si gestisce il lifecycle delle identità digitali?
-Identità Digitale|Come si implementa il multi-factor authentication?
-Laboratori|Come si gestisce il deployment di software nei laboratori?
-Laboratori|Quali sono le best practice per la sicurezza dei laboratori didattici?
-Laboratori|Come si implementa il controllo remoto delle postazioni?
-Laboratori|Come si gestisce il tracking dell'utilizzo dei laboratori?
-Laboratori|Quali sono i vantaggi dei laboratori virtuali?
-Asset Management|Come si implementa un sistema di asset discovery automatico?
-Asset Management|Quali sono le best practice per il lifecycle management degli asset?
-Asset Management|Come si gestisce l'inventario software in una grande organizzazione?
-Asset Management|Come si automatizza il processo di patch management?
-Asset Management|Quali sono i KPI più importanti nel asset management?
-Networking|Come si implementa la segmentazione della rete per isolamento dei laboratori?
-Virtualizzazione|Come si ottimizza la performance delle macchine virtuali?
-Cloud Computing|Come si implementa un private cloud con OpenStack?
-Metodologie Agili|Come si gestisce la documentazione in un progetto Agile?
-VOIP|Come si dimensiona una infrastruttura VOIP per un grande Ateneo?
-DevOps|Come si implementa il continuous testing?
-Sicurezza|Come si gestisce la security awareness training?
-GDPR|Come si gestisce il registro dei trattamenti?
-CAD|Come si implementa la dematerializzazione dei processi?
-AGID|Come si implementa il piano di continuità operativa?
-Rete Ateneo|Come si gestisce il monitoring della rete?
-Sistemi Operativi|Come si gestisce la virtualizzazione dei desktop?
-Identità Digitale|Come si implementa la federazione delle identità?
-Laboratori|Come si gestisce il provisioning automatico dei laboratori?
-Asset Management|Come si implementa il software license management?
-Networking|Come si implementa IPv6 in una rete esistente?
-Virtualizzazione|Come si gestisce il capacity planning in ambiente virtuale?
-Cloud Computing|Come si implementa il cloud monitoring?
-Metodologie Agili|Come si gestisce il rischio in un progetto Agile?
-VOIP|Come si implementa la registrazione delle chiamate VOIP?
-DevOps|Come si implementa il blue-green deployment?
-Sicurezza|Come si gestisce la vulnerability assessment?
-GDPR|Come si implementa il data retention policy?
-CAD|Come si gestisce l'archivio digitale?
-AGID|Come si implementa il piano di backup secondo AGID?
-Rete Ateneo|Come si gestisce il capacity planning della rete?
-Sistemi Operativi|Come si implementa il software deployment?
-Identità Digitale|Come si gestisce il password policy?
-Laboratori|Come si implementa il thin client nei laboratori?
-Asset Management|Come si gestisce l'obsolescenza degli asset?
-Networking | Qual è la differenza tra uno switch e un router in una rete di ampie dimensioni?
-Networking | Come funziona il protocollo di routing BGP in una rete distribuita su più territori?
-Networking | Spiega il processo di subnetting e come viene applicato in una rete di grandi dimensioni.
-Networking | Quali sono i principali protocolli utilizzati per la gestione delle reti wireless?
-Networking | Come gestiresti la segmentazione della rete in un campus universitario con molteplici edifici?
-Networking | Qual è la differenza tra IPv4 e IPv6 e come si applicano in reti su larga scala?
-Networking | Descrivi i meccanismi di failover nel routing e la loro importanza in una rete distribuita.
-Networking | Come viene gestito il Quality of Service (QoS) in una rete wireless ad alta densità di utenti?
-Networking | Quali strumenti utilizzeresti per monitorare il traffico di rete in una rete distribuita geograficamente?
-Virtualizzazione | Spiega la differenza tra virtualizzazione full, para-virtualizzazione e containerizzazione.
-Virtualizzazione | Quali sono i vantaggi della virtualizzazione dei server in un contesto universitario?
-Virtualizzazione | Come si implementa una soluzione di virtual desktop infrastructure (VDI)?
-Virtualizzazione | Quali sono le principali differenze tra VMware, Hyper-V e KVM?
-Virtualizzazione | Come gestiresti la migrazione di server fisici a macchine virtuali (P2V)?
-Cloud Computing | Quali sono le differenze tra i modelli di cloud pubblico, privato e ibrido?
-Cloud Computing | Spiega il concetto di Infrastructure as a Service (IaaS) e fornisci un esempio pratico.
-Cloud Computing | Quali sono i principali vantaggi del cloud computing per le istituzioni universitarie?
-Cloud Computing | Come garantire la sicurezza dei dati nel cloud?
-Cloud Computing | Che cos'è un'architettura a microservizi e come si applica nel cloud computing?
-Metodologie Agili | Quali sono i principi fondamentali delle metodologie agili?
-Metodologie Agili | Qual è la differenza tra Scrum e Kanban?
-Metodologie Agili | Come applicheresti un framework agile nello sviluppo di un progetto software per un'università?
-Metodologie Agili | Come si gestisce il cambiamento dei requisiti in un progetto agile?
-Metodologie Agili | Qual è il ruolo del Product Owner in un team Scrum?
-VOIP | Quali sono i principali protocolli utilizzati nella telefonia VOIP?
-VOIP | Come viene gestita la qualità del servizio in una rete VOIP?
-VOIP | Quali sono i vantaggi del passaggio da una telefonia tradizionale a una soluzione VOIP?
-VOIP | Come si configura un centralino IP in una rete universitaria distribuita?
-VOIP | Quali sono le principali vulnerabilità di sicurezza nelle reti VOIP?
-DevOps | Che cos'è il Continuous Integration e come si implementa?
-DevOps | Quali sono i principali strumenti utilizzati per il Continuous Delivery?
-DevOps | Come utilizzeresti Docker in un processo di Continuous Integration?
-DevOps | Qual è la differenza tra Continuous Deployment e Continuous Delivery?
-DevOps | Quali sono i vantaggi di adottare una cultura DevOps in un'organizzazione?
-Sicurezza informatica | Quali sono i principali tipi di attacchi informatici su una rete di grandi dimensioni?
-Sicurezza informatica | Come proteggeresti una rete universitaria da un attacco DDoS?
-Sicurezza informatica | Quali sono i principali strumenti di monitoraggio della sicurezza informatica?
-Sicurezza informatica | Qual è l'importanza di implementare un sistema di intrusion detection (IDS) in una rete universitaria?
-Sicurezza informatica | Cosa si intende per "security by design" e come si applica nello sviluppo di un'infrastruttura IT?
-GDPR | Quali sono le principali novità introdotte dal GDPR rispetto alla normativa precedente?
-GDPR | Come gestiresti i dati personali degli studenti in conformità con il GDPR?
-GDPR | Cosa si intende per "diritto all'oblio" nel contesto del GDPR?
-GDPR | Quali sono le misure di sicurezza richieste dal GDPR per il trattamento dei dati sensibili?
-GDPR | Cosa fare in caso di violazione dei dati personali secondo il GDPR?
-CAD | Qual è lo scopo del Codice dell'Amministrazione Digitale?
-CAD | Come si applicano le linee guida AGID nell'implementazione dei servizi digitali nelle università?
-CAD | Cosa si intende per "documento informatico" secondo il CAD?
-CAD | Qual è il ruolo della firma digitale nel contesto del CAD?
-CAD | Come viene regolamentata la conservazione dei documenti digitali secondo il CAD?
-Misure di Sicurezza AGID | Quali sono le misure minime di sicurezza ICT per le pubbliche amministrazioni previste dalla direttiva AGID?
-Misure di Sicurezza AGID | Come si applicano le linee guida AGID per la sicurezza informatica in una rete universitaria?
-Misure di Sicurezza AGID | Quali sono le sanzioni previste in caso di mancato rispetto delle direttive AGID?
-Misure di Sicurezza AGID | Qual è il ruolo dell'AGID nella governance digitale delle pubbliche amministrazioni?
-Misure di Sicurezza AGID | Come si attua un piano di continuità operativa secondo le direttive AGID?
-Regolamento di Ateneo | Quali sono i punti principali del regolamento sull'uso della rete di Ateneo dell'Università di Palermo?
-Regolamento di Ateneo | Come viene gestita la sicurezza dell'accesso alla rete di Ateneo?
-Regolamento di Ateneo | Quali sono le responsabilità degli utenti nell'uso dei servizi internet dell'Università di Palermo?
-Regolamento di Ateneo | Come viene garantito l'uso corretto delle risorse di rete secondo il regolamento dell'Università di Palermo?
-Regolamento di Ateneo | Quali sono le misure disciplinari in caso di violazione del regolamento della rete di Ateneo?
-Sistemi Operativi | Quali sono le principali differenze tra Windows e Linux in un contesto di gestione IT?
-Sistemi Operativi | Come si gestisce la sicurezza dei sistemi operativi Mac OS X in un ambiente aziendale?
-Sistemi Operativi | Quali strumenti utilizzeresti per il patch management su una rete con diversi sistemi operativi?
-Sistemi Operativi | Come garantire la sicurezza degli endpoint su una rete con sistemi operativi misti?
-Sistemi Operativi | Quali sono le principali differenze tra Windows Server e Linux per la gestione di una rete universitaria?
-Identità Digitale | Come gestiresti l'implementazione di un sistema di Single Sign-On (SSO) in una grande organizzazione?
-Identità Digitale | Quali sono i vantaggi di utilizzare un sistema di autenticazione a due fattori in un contesto universitario?
-Identità Digitale | Come si gestiscono le identità digitali per gli studenti e il personale in un'università?
-Identità Digitale | Quali sono i rischi legati alla gestione delle identità digitali in un'organizzazione complessa?
-Identità Digitale | Come viene implementata l'autenticazione federata in un contesto universitario?
-Gestione dei Laboratori | Come organizzeresti la gestione di un laboratorio informatico fisico per la didattica?
-Gestione dei Laboratori | Quali sono i vantaggi della virtualizzazione dei laboratori informatici per la didattica?
-Gestione dei Laboratori | Quali strumenti utilizzeresti per monitorare le attività nei laboratori informatici?
-Gestione dei Laboratori | Come garantiresti la sicurezza dei dati nei laboratori informatici virtualizzati?
-Gestione dei Laboratori | Quali strategie adotteresti per l'aggiornamento periodico del software in un laboratorio informatico?
-Asset Inventory | Quali sono i principali benefici di un sistema di asset inventory in un'istituzione con numerosi dispositivi?
-Asset Inventory | Come gestiresti l'implementazione di un sistema di asset management in una grande organizzazione?
-Asset Inventory | Quali strumenti software utilizzeresti per la gestione degli asset in una rete di ampie dimensioni?
-Asset Inventory | Quali sono i rischi legati a una gestione inefficace degli asset IT in un'università?
-Asset Inventory | Come si integrano i sistemi di asset management con i sistemi di sicurezza informatica?
-Networking | Come gestiresti la configurazione delle VLAN in una rete universitaria con più campus?
-Networking | Quali sono le principali differenze tra reti LAN, MAN e WAN?
-Virtualizzazione | Come si implementa una soluzione di backup per macchine virtuali?
-Cloud Computing | Quali sono i principali svantaggi dell'adozione del cloud computing in una pubblica amministrazione?
-Sicurezza Informatica | Come garantire la sicurezza dei dati in transito su una rete universitaria?
-GDPR | Quali sono i requisiti per il consenso al trattamento dei dati personali secondo il GDPR?
-CAD | Cosa si intende per interoperabilità dei sistemi informatici nella Pubblica Amministrazione?
-Misure di Sicurezza AGID | Come vengono classificate le informazioni critiche nelle linee guida AGID?
-VOIP | Quali sono le sfide nell'implementazione del VOIP in una rete universitaria?
-DevOps | Come si utilizza Jenkins in una pipeline di Continuous Integration?
-Sicurezza Informatica | Cosa si intende per gestione del rischio informatico e come lo applichi in un contesto universitario?
-Cloud Computing | Come implementeresti una soluzione di disaster recovery nel cloud?
-Virtualizzazione | Come gestiresti un'architettura di storage condiviso in un'infrastruttura virtualizzata?
-Networking | Qual è il ruolo del protocollo DHCP in una rete di ampie dimensioni?
-DevOps | Come viene utilizzato Ansible per automatizzare la configurazione di server?
-Sicurezza Informatica | Come implementeresti la segmentazione di rete per migliorare la sicurezza in una rete universitaria?
-Asset Inventory | Qual è il ruolo della tracciabilità degli asset in un contesto di sicurezza IT?
-Cloud Computing | Come bilanceresti il carico tra diversi provider cloud in un'architettura multicloud?
-Identità Digitale | Cosa si intende per "provisioning" e "deprovisioning" nel contesto della gestione delle identità digitali?
-GDPR | Come viene gestito il trasferimento di dati personali verso paesi terzi secondo il GDPR?
-CAD | Come viene regolata la firma elettronica nel contesto del CAD?
-Networking | Come si configura un protocollo di routing dinamico come OSPF in una rete di grandi dimensioni?
-Networking | Quali sono i principali problemi di scalabilità nelle reti wireless distribuite su più edifici?
-Networking | Come gestiresti il roaming degli utenti tra diversi access point in una rete wireless universitaria?
-Networking | Quali sono i rischi associati all'utilizzo del NAT in una rete di grandi dimensioni?
-Networking | Come utilizzeresti i firewall per segmentare una rete universitaria in zone di sicurezza?
-Networking | Quali sono i principali vantaggi e svantaggi dell'implementazione di MPLS in una rete distribuita?
-Networking | Come gestiresti l'implementazione di una rete VPN per collegare diverse sedi di un'università?
-Networking | Come funziona il protocollo IEEE 802.1X e come si applica alla sicurezza di una rete wireless?
-Networking | Qual è il ruolo delle tabelle di routing nei router e come vengono aggiornate in una rete dinamica?
-Networking | Come gestiresti la ridondanza dei collegamenti in una rete di ampie dimensioni per evitare single points of failure?
-Virtualizzazione | Quali sono i principali strumenti di gestione delle macchine virtuali in un'infrastruttura VMware?
-Virtualizzazione | Come configureresti un cluster di macchine virtuali per garantire alta disponibilità e failover?
-Virtualizzazione | Quali sono i principali svantaggi della virtualizzazione desktop rispetto a soluzioni fisiche?
-Virtualizzazione | Come gestiresti il bilanciamento delle risorse in un ambiente virtualizzato ad alta densità di utenti?
-Virtualizzazione | Come utilizzeresti una soluzione di storage software-defined (SDS) in un'infrastruttura virtualizzata?
-Cloud Computing | Quali sono le differenze tra Platform as a Service (PaaS) e Software as a Service (SaaS)?
-Cloud Computing | Quali sono i rischi di dipendenza da un singolo fornitore di servizi cloud (vendor lock-in)?
-Cloud Computing | Come gestiresti la compliance normativa di un'istituzione universitaria che utilizza servizi cloud?
-Cloud Computing | Quali sono i principali strumenti di automazione per la gestione delle risorse cloud?
-Cloud Computing | Come gestiresti l'integrazione tra servizi cloud e sistemi legacy in un'università?
-Metodologie Agili | Come si calcola la velocità (velocity) in un team Scrum e a cosa serve?
-Metodologie Agili | Quali sono le principali cerimonie di Scrum e quale scopo hanno?
-Metodologie Agili | Come si gestiscono i conflitti all'interno di un team agile?
-Metodologie Agili | Quali sono i vantaggi dell'adozione di Kanban per un team di supporto IT?
-Metodologie Agili | Come si gestiscono i rischi in un progetto agile?
-VOIP | Qual è il ruolo di un SIP server in un'infrastruttura VOIP?
-VOIP | Come gestiresti la priorità del traffico VOIP su una rete congestionata?
-VOIP | Come configureresti una rete VOIP per supportare la crittografia delle chiamate?
-VOIP | Quali sono i vantaggi dell'utilizzo di telefoni software (softphone) rispetto ai telefoni fisici in una rete VOIP?
-VOIP | Quali strumenti utilizzeresti per monitorare e diagnosticare i problemi di una rete VOIP?
-DevOps | Come configureresti un pipeline di Continuous Integration utilizzando GitLab CI/CD?
-DevOps | Qual è il ruolo del versionamento del codice in un processo DevOps?
-DevOps | Come utilizzeresti Kubernetes in un contesto di Continuous Deployment?
-DevOps | Quali sono le migliori pratiche per il monitoraggio e il logging in un ambiente DevOps?
-DevOps | Quali sono i principali vantaggi di un'infrastruttura come codice (IaC) in un approccio DevOps?
-Sicurezza Informatica | Quali tecniche utilizzeresti per proteggere i dati su dispositivi mobili in un contesto universitario?
-Sicurezza Informatica | Come gestiresti la crittografia dei dati in una rete distribuita?
-Sicurezza Informatica | Come si configura un sistema SIEM per il monitoraggio della sicurezza in una rete universitaria?
-Sicurezza Informatica | Qual è il ruolo della gestione delle patch nella sicurezza di una rete distribuita?
-Sicurezza Informatica | Come utilizzeresti un honeypot per migliorare la sicurezza di una rete universitaria?
-GDPR | Cosa si intende per Data Protection Officer (DPO) e qual è il suo ruolo secondo il GDPR?
-GDPR | Come si gestiscono i registri delle attività di trattamento dei dati secondo il GDPR?
-GDPR | Quali misure adotteresti per garantire il diritto alla portabilità dei dati secondo il GDPR?
-GDPR | Quali sono le responsabilità del titolare del trattamento dei dati secondo il GDPR?
-GDPR | Come gestiresti la protezione dei dati personali negli ambienti di cloud computing in conformità con il GDPR?
-CAD | Come viene definito il concetto di "dominio applicativo" nel contesto del CAD?
-CAD | Qual è l'importanza della dematerializzazione nel contesto del Codice dell'Amministrazione Digitale?
-CAD | Come si garantisce l'accessibilità dei servizi digitali nella Pubblica Amministrazione secondo il CAD?
-CAD | Qual è il ruolo dei conservatori accreditati nel processo di conservazione digitale secondo il CAD?
-CAD | Come si gestisce il ciclo di vita di un documento informatico secondo il CAD?
-Misure di Sicurezza AGID | Quali sono i requisiti minimi di autenticazione per l'accesso ai sistemi informatici nelle PA secondo le linee guida AGID?
-Misure di Sicurezza AGID | Qual è l'importanza della continuità operativa nelle linee guida AGID per la sicurezza ICT?
-Misure di Sicurezza AGID | Come gestiresti la protezione dei dati sensibili nelle reti di una pubblica amministrazione?
-Misure di Sicurezza AGID | Quali strumenti utilizzeresti per la protezione degli endpoint in una rete PA in conformità alle linee guida AGID?
-Misure di Sicurezza AGID | Come si attua la gestione delle vulnerabilità nei sistemi IT delle pubbliche amministrazioni?
-Regolamento di Ateneo | Quali politiche adotteresti per l'accesso alla rete di Ateneo da dispositivi mobili?
-Regolamento di Ateneo | Come gestiresti l'implementazione di una rete guest in conformità al regolamento di Ateneo?
-Regolamento di Ateneo | Quali misure tecniche adotteresti per prevenire l'uso improprio della rete universitaria?
-Regolamento di Ateneo | Come garantiresti la conformità della rete di Ateneo alle leggi italiane ed europee?
-Regolamento di Ateneo | Quali sono le principali limitazioni imposte dal regolamento di Ateneo sull'uso della rete?
-Sistemi Operativi | Come configureresti una policy di gruppo (GPO) su Windows per migliorare la sicurezza di una rete?
-Sistemi Operativi | Come gestiresti l'aggiornamento centralizzato di sistemi Linux in un ambiente misto?
-Sistemi Operativi | Quali strumenti utilizzeresti per monitorare le prestazioni dei sistemi operativi Mac OS X?
-Sistemi Operativi | Qual è l'importanza del controllo degli accessi basato sui ruoli (RBAC) in un sistema operativo Linux?
-Sistemi Operativi | Come gestiresti l'autenticazione biometrica su un sistema operativo Windows?
-Identità Digitale | Quali sono i principali standard di autenticazione federata utilizzati nelle università?
-Identità Digitale | Come implementeresti un sistema di identità digitale per l'accesso ai servizi cloud in un'università?
-Identità Digitale | Quali sono i principali rischi legati all'utilizzo di password deboli in un sistema di identità digitale?
-Identità Digitale | Come gestiresti il ciclo di vita di un'identità digitale in un'organizzazione complessa?
-Identità Digitale | Quali strumenti utilizzeresti per garantire l'audit e il monitoraggio delle identità digitali?
-Gestione dei Laboratori | Come pianificheresti l'allocazione delle risorse in un laboratorio virtualizzato per la didattica?
-Gestione dei Laboratori | Quali politiche di backup adotteresti per un laboratorio informatico virtuale?
-Gestione dei Laboratori | Quali strumenti utilizzeresti per il deployment rapido di macchine virtuali in un laboratorio didattico?
-Gestione dei Laboratori | Come garantiresti l'isolamento delle reti nei laboratori didattici virtualizzati?
-Gestione dei Laboratori | Quali sono le principali sfide nell'aggiornamento dei software didattici in un laboratorio informatico?
-Asset Inventory | Come gestiresti il ciclo di vita di un asset informatico in una grande organizzazione?
-Asset Inventory | Quali criteri adotteresti per classificare e catalogare gli asset in una rete universitaria?
-Asset Inventory | Come utilizzeresti un sistema di asset management per ottimizzare la sicurezza di una rete?
-Asset Inventory | Quali sono i vantaggi di un sistema automatizzato di inventario degli asset rispetto alla gestione manuale?
-Asset Inventory | Come gestiresti l'integrazione di sistemi di asset management con piattaforme di monitoraggio della rete?
-Networking | Quali sono i principali vantaggi dell'utilizzo di reti SDN (Software Defined Networking) in un ambiente universitario?
-Networking | Come si può mitigare il rischio di attacchi DDoS in una rete universitaria?
-Networking | Quali sono i vantaggi dell'utilizzo di reti mesh in un campus universitario?
-Networking | Come configureresti una rete wireless ad alta densità per eventi universitari?
-Networking | Come monitoreresti la latenza e la qualità del servizio in una rete wireless distribuita?
-Virtualizzazione | Quali sono i vantaggi dell'utilizzo di container rispetto alle macchine virtuali tradizionali?
-Virtualizzazione | Come garantiresti l'isolamento delle risorse in un'infrastruttura virtualizzata multi-tenant?
-Cloud Computing | Quali sono le principali differenze tra cloud privato e cloud pubblico?
-Cloud Computing | Come gestiresti la compliance dei dati in un ambiente multi-cloud?
-Cloud Computing | Quali strategie utilizzeresti per la migrazione di dati e applicazioni da un datacenter on-premises al cloud?
-Cloud Computing | Quali strumenti utilizzeresti per il monitoraggio delle risorse cloud in un contesto universitario?
-Cloud Computing | Come implementeresti politiche di risparmio sui costi in un'infrastruttura cloud?
-DevOps | Come implementeresti un'infrastruttura CI/CD utilizzando strumenti open source?
-DevOps | Quali sono i vantaggi dell'utilizzo di microservizi in un'architettura DevOps?
-DevOps | Come gestiresti la sicurezza in un pipeline CI/CD?
-DevOps | Qual è il ruolo del cloud nella cultura DevOps?
-DevOps | Quali sono le principali sfide nell'adozione di DevOps in un ambiente di sviluppo tradizionale?
-Sicurezza Informatica | Come proteggeresti le reti universitarie dagli attacchi di phishing?
-Sicurezza Informatica | Qual è il ruolo della gestione delle vulnerabilità in una strategia di sicurezza proattiva?
-Sicurezza Informatica | Quali sono i vantaggi dell'utilizzo di strumenti di sicurezza basati sull'intelligenza artificiale?
+Networking|Quali sono i principali protocolli e tecnologie utilizzati per garantire la connettività in una rete di grandi dimensioni e distribuita geograficamente?
+Virtualizzazione|Quali sono i principali vantaggi della virtualizzazione dei server e dei desktop per un'infrastruttura universitaria?
+Cloud Computing|Quali sono le differenze tra i principali modelli di servizio cloud (IaaS, PaaS, SaaS) e quali vantaggi può portare l'adozione del cloud in ambito universitario?
+Metodologie Agili|Come si applicano le metodologie agili in un contesto di sviluppo software per la pubblica amministrazione e quali vantaggi offrono?
+Telefonia VOIP|Quali sono i principali vantaggi e sfide dell'implementazione di un sistema VOIP in un contesto universitario?
+DevOps e CI/CD|Come descriveresti il processo CI/CD e in che modo può essere utile in un contesto DevOps?
+Sicurezza Informatica|Quali misure di sicurezza implementeresti per monitorare e proteggere una rete universitaria contro minacce informatiche?
+GDPR|Quali sono i principi fondamentali del GDPR e come impattano sulla gestione dei dati personali all'interno di un ateneo?
+Codice dell’Amministrazione Digitale|Qual è l'importanza del CAD (Codice dell'Amministrazione Digitale) per una pubblica amministrazione, e quali sono alcuni principi chiave che introduce?
+Misure Minime di Sicurezza ICT|Quali sono le principali misure minime di sicurezza ICT per le pubbliche amministrazioni italiane previste dalle linee guida AGID?
+Regolamento di Ateneo|Quali sono i principali aspetti che un regolamento sull'utilizzo della rete di ateneo dovrebbe considerare per garantire sicurezza e accessibilità?
+Sistemi Operativi Client|Quali sono le principali differenze tra i sistemi operativi Microsoft Windows, Mac OS X e Linux in termini di amministrazione e sicurezza?
+Sistemi di Identità Digitale|Come gestiresti un sistema di identità digitale in un contesto complesso come quello universitario?
+Gestione di Laboratori Didattici|Quali sono i principali aspetti da considerare nella gestione di un laboratorio informatico per la didattica, sia fisico che virtuale?
+Asset Inventory e Asset Management|Quali strumenti e metodologie adotteresti per gestire un sistema di asset inventory in un'infrastruttura caratterizzata da un elevato numero di postazioni di lavoro?
+Networking|Quali sono le principali differenze tra le reti cablate e wireless in termini di performance, sicurezza e affidabilità?
+Networking|Come funziona il protocollo di indirizzamento IP e quali sono le differenze tra IPv4 e IPv6?
+Networking|Quali sono i principali protocolli di routing utilizzati in una rete geografica e come funzionano?
+Networking|Come gestiresti la scalabilità di una rete ampia e distribuita geograficamente?
+Networking|Cosa sono le VLAN e come possono migliorare la sicurezza e l’organizzazione di una rete?
+Networking|In che modo il protocollo DHCP facilita la gestione degli indirizzi IP in una rete di grandi dimensioni?
+Networking|Cosa sono i firewall di rete e come contribuiscono alla sicurezza di una rete universitaria?
+Networking|Quali sono i principali protocolli di sicurezza nelle reti wireless e come funzionano?
+Networking|Come gestiresti un’infrastruttura di rete per supportare l’accesso simultaneo di migliaia di utenti?
+Networking|Quali sono i principali vantaggi e limiti del protocollo MPLS in reti aziendali distribuite?
+Virtualizzazione|Quali sono le differenze tra virtualizzazione completa e paravirtualizzazione?
+Virtualizzazione|Quali sono i vantaggi della virtualizzazione rispetto ai server fisici in termini di costi e flessibilità?
+Virtualizzazione|Cosa si intende per hypervisor e quali sono i principali tipi utilizzati nella virtualizzazione?
+Virtualizzazione|Come implementeresti una soluzione VDI (Virtual Desktop Infrastructure) per una grande università?
+Virtualizzazione|Quali sono i rischi di sicurezza associati alla virtualizzazione e come possono essere mitigati?
+Virtualizzazione|In che modo la virtualizzazione dei server può contribuire a una gestione più efficiente delle risorse IT?
+Virtualizzazione|Come funziona la migrazione live di macchine virtuali e quali sono i suoi vantaggi?
+Virtualizzazione|Quali tecnologie di virtualizzazione desktop conosci e in quali situazioni possono essere utili?
+Virtualizzazione|Quali sono i principali problemi che possono sorgere nella gestione di una piattaforma virtualizzata?
+Virtualizzazione|Cosa significa creare un cluster di hypervisor e quali vantaggi offre?
+Cloud Computing|Quali sono i principali vantaggi di una soluzione cloud per una pubblica amministrazione?
+Cloud Computing|Quali sono le differenze principali tra un cloud pubblico, privato e ibrido?
+Cloud Computing|Come il modello SaaS può essere vantaggioso per un'università?
+Cloud Computing|Quali sono le sfide principali per garantire la sicurezza dei dati in un ambiente cloud?
+Cloud Computing|Cosa sono i container e come si differenziano dalle macchine virtuali nel cloud computing?
+Cloud Computing|Quali metriche considereresti per valutare le performance di una soluzione cloud?
+Cloud Computing|Come definiresti il concetto di “cloud-native” e quali sono i suoi vantaggi?
+Cloud Computing|Quali sono le principali strategie di backup e disaster recovery per i dati nel cloud?
+Cloud Computing|Come valutare la compliance GDPR per una soluzione cloud?
+Cloud Computing|Quali criteri considereresti per scegliere tra diversi provider cloud?
+Metodologie Agili|Quali sono i principi fondamentali delle metodologie agili?
+Metodologie Agili|Quali vantaggi può portare l’utilizzo di Scrum in un progetto IT?
+Metodologie Agili|In che modo la metodologia Kanban differisce da Scrum e in quali casi sarebbe preferibile?
+Metodologie Agili|Quali strumenti utilizzaresti per facilitare la collaborazione agile in un team distribuito?
+Metodologie Agili|Quali sono le principali sfide nell’implementare metodologie agili in un ambiente pubblico?
+Metodologie Agili|Quali sono i principali indicatori di successo in un progetto gestito con metodologia agile?
+Metodologie Agili|Come gestiresti i cambiamenti di requisiti in un progetto agile?
+Metodologie Agili|Qual è l’importanza dei meeting di revisione e retrospettiva in Scrum?
+Metodologie Agili|Quali sono i vantaggi della filosofia Lean nel contesto dello sviluppo software?
+Metodologie Agili|Come integreresti la metodologia agile in un contesto DevOps?
+VOIP|Come si differenzia una rete VOIP da una tradizionale PSTN in termini di architettura?
+VOIP|Quali protocolli sono comunemente utilizzati nella comunicazione VOIP?
+VOIP|Come gestiresti la qualità del servizio (QoS) per garantire la qualità delle chiamate VOIP?
+VOIP|Quali sono le principali sfide di sicurezza nella telefonia VOIP?
+VOIP|Quali vantaggi offre l’adozione di VOIP in un contesto accademico?
+VOIP|Come gestiresti un'infrastruttura VOIP in una rete distribuita?
+VOIP|Quali sono le principali vulnerabilità di una rete VOIP e come mitigarle?
+VOIP|Come configureresti un PBX per una rete di VOIP?
+VOIP|Qual è l’importanza della latenza e della larghezza di banda nella qualità delle chiamate VOIP?
+VOIP|Quali misure implementeresti per garantire la continuità del servizio VOIP in caso di guasto?
+DevOps|Cosa si intende per DevOps e quali sono i suoi vantaggi principali?
+DevOps|Qual è il ruolo dell’automazione nel processo CI/CD?
+DevOps|Quali sono le principali sfide nell’adottare DevOps in una struttura universitaria?
+DevOps|Quali strumenti di CI/CD conosci e quali sceglieresti per un team di sviluppo software?
+DevOps|Come valuteresti l’efficacia di un processo DevOps in un ambiente IT?
+DevOps|Quali vantaggi offre l’adozione di pipeline CI/CD per lo sviluppo software?
+DevOps|Qual è il ruolo dell’infrastruttura come codice (IaC) in un contesto DevOps?
+DevOps|Quali sono le principali pratiche di monitoraggio nel DevOps e perché sono importanti?
+DevOps|Quali sono i vantaggi di Docker rispetto alle macchine virtuali in un ambiente CI/CD?
+DevOps|Come favoriresti la collaborazione tra i team di sviluppo e quelli operativi in DevOps?
+Sicurezza Informatica|Quali sono le principali minacce alla sicurezza informatica in una rete universitaria?
+Sicurezza Informatica|Cosa significa applicare un modello di sicurezza "zero trust"?
+Sicurezza Informatica|Come gestiresti il monitoraggio della rete per rilevare potenziali attacchi informatici?
+Sicurezza Informatica|Quali sono i vantaggi dell’uso di sistemi di rilevamento delle intrusioni (IDS) in una rete aziendale?
+Sicurezza Informatica|Come implementeresti la protezione multi-fattore (MFA) per garantire la sicurezza degli accessi?
+Sicurezza Informatica|Quali sono le principali vulnerabilità nelle reti wireless e come le mitigheresti?
+Sicurezza Informatica|Quali sono le best practice per la gestione delle password in un ambiente aziendale?
+Sicurezza Informatica|Come implementeresti la cifratura dei dati in una rete universitaria?
+Sicurezza Informatica|Come gestiresti un piano di backup e disaster recovery per una rete IT?
+Sicurezza Informatica|Quali sono le misure più efficaci per la protezione contro il ransomware?
+GDPR|Quali sono i principali diritti dei soggetti interessati previsti dal GDPR?
+GDPR|Quali dati personali sono considerati “sensibili” ai sensi del GDPR?
+GDPR|Qual è il ruolo del Data Protection Officer (DPO) in un’istituzione pubblica?
+GDPR|Quali sono i principali obblighi di una pubblica amministrazione per garantire la conformità GDPR?
+GDPR|Come valuteresti l’impatto della portabilità dei dati per un’università?
+GDPR|Qual è l’importanza del consenso esplicito nella gestione dei dati personali?
+GDPR|Come implementeresti la minimizzazione dei dati in una struttura IT?
+GDPR|Cosa comporta una violazione dei dati personali secondo il GDPR?
+GDPR|Quali sono le principali sanzioni previste dal GDPR per le pubbliche amministrazioni?
+GDPR|Qual è il ruolo della DPIA (Data Protection Impact Assessment)?
+CAD|Quali sono gli obiettivi principali del Codice dell’Amministrazione Digitale?
+CAD|Quali misure devono essere prese per garantire la trasparenza digitale secondo il CAD?
+CAD|Come definiresti il concetto di “domicilio digitale” previsto dal CAD?
+CAD|Qual è il ruolo dell’identità digitale secondo il CAD e come viene implementata?
+CAD|Cosa sono i documenti informatici e come devono essere gestiti secondo il CAD?
+CAD|Come si applicano le firme digitali secondo le linee guida del CAD?
+CAD|Quali requisiti devono rispettare i sistemi di conservazione documentale?
+CAD|Quali sono i diritti di accesso ai dati previsti dal CAD?
+CAD|Quali sono le principali normative del CAD relative all’accessibilità digitale?
+CAD|Quali sono le principali responsabilità delle pubbliche amministrazioni secondo il CAD?
+Misure Minime di Sicurezza ICT|Quali sono le principali misure di sicurezza ICT previste per le PA?
+Misure Minime di Sicurezza ICT|Come possono le PA garantire la sicurezza di rete nelle comunicazioni?
+Misure Minime di Sicurezza ICT|Quali sono le principali linee guida per la protezione delle reti Wi-Fi secondo le norme AGID?
+Misure Minime di Sicurezza ICT|Qual è l’importanza dell’audit di sicurezza in un contesto ICT pubblico?
+Misure Minime di Sicurezza ICT|Come gestiresti il controllo degli accessi in una PA?
+Misure Minime di Sicurezza ICT|Quali misure di prevenzione implementeresti per ridurre i rischi di attacchi informatici?
+Sistemi Operativi Client|Quali sono i vantaggi e le sfide dell’uso di un ambiente misto con Windows, macOS e Linux?
+Sistemi Operativi Client|Come gestiresti la sicurezza di endpoint per diversi sistemi operativi in una rete universitaria?
+Identità Digitale|Quali tecnologie di autenticazione conosci e come integreresti un sistema SSO (Single Sign-On)?
+Asset Management|Quali sono i vantaggi dell’asset management in un contesto con molti dispositivi?
+Networking|Come assicureresti una connessione stabile e sicura in una rete universitaria distribuita tra più edifici?
+Networking|Quali sono le best practice per configurare i router e gli switch in una rete di grandi dimensioni?
+Networking|Quali tecnologie implementeresti per gestire il traffico di rete in modo efficiente?
+Networking|In che modo utilizzeresti il protocollo BGP in un contesto universitario con più sedi collegate a Internet?
+Networking|Come valuteresti l'efficacia di una rete di accesso Wi-Fi per studenti e docenti?
+Networking|Quali sono i vantaggi e le sfide dell’implementazione di una rete mesh in un ambiente universitario?
+Networking|Come garantiresti la protezione dei dati trasmessi all'interno di una rete geografica?
+Networking|Qual è l'importanza della segmentazione della rete per la sicurezza?
+Networking|Come gestiresti la qualità del servizio (QoS) per garantire priorità a determinati tipi di traffico?
+Networking|Quali tecnologie o strategie useresti per assicurare la ridondanza della rete?
+Virtualizzazione|Quali sono le considerazioni principali per il dimensionamento delle risorse di una piattaforma virtualizzata?
+Virtualizzazione|Come valuteresti le performance di una soluzione VDI in un laboratorio didattico?
+Virtualizzazione|Quali rischi di “sprawl” (crescita incontrollata) sono associati alla virtualizzazione e come li mitigheresti?
+Virtualizzazione|Come configureresti un sistema di bilanciamento del carico per un'infrastruttura virtualizzata?
+Virtualizzazione|Quali sono le differenze tra virtualizzazione a livello di sistema operativo e a livello di hardware?
+Virtualizzazione|Come effettueresti il backup e il ripristino di una macchina virtuale in un’infrastruttura universitaria?
+Virtualizzazione|Quali tecniche useresti per ottimizzare l’uso delle risorse hardware in un ambiente virtualizzato?
+Virtualizzazione|Quali sono i principali fattori di costo della virtualizzazione e come gestirli in modo efficiente?
+Virtualizzazione|Come bilanceresti la sicurezza e l'accessibilità in un sistema virtualizzato di desktop?
+Virtualizzazione|Quali vantaggi ha la virtualizzazione delle applicazioni rispetto alla virtualizzazione dei desktop?
+Cloud Computing|Come definiresti il concetto di “scalabilità elastica” nel cloud?
+Cloud Computing|Quali strumenti esistono per gestire la sicurezza di un ambiente cloud?
+Cloud Computing|Quali problematiche può creare la “cloud vendor lock-in” e come puoi evitarla?
+Cloud Computing|Quali sono i vantaggi di una strategia di cloud ibrido?
+Cloud Computing|Quali sono le principali considerazioni per la gestione dei costi nel cloud?
+Cloud Computing|In che modo il cloud computing può contribuire alla sostenibilità ambientale?
+Cloud Computing|Quali tipi di dati non dovrebbero essere archiviati in un cloud pubblico e perché?
+Cloud Computing|Come si integra un sistema di cloud con un’infrastruttura on-premise?
+Cloud Computing|Qual è l’importanza delle policy di retention dei dati in un sistema cloud?
+Cloud Computing|Come utilizzeresti un servizio di backup cloud in un contesto universitario?
+Metodologie Agili|Come definiresti la differenza tra un approccio agile e uno a cascata?
+Metodologie Agili|Qual è il ruolo di un Product Owner in un team agile?
+Metodologie Agili|Come favoriresti la trasparenza e la comunicazione in un progetto agile?
+Metodologie Agili|Quali sono i principali strumenti utilizzati per tracciare le attività in un team agile?
+Metodologie Agili|In quali situazioni preferiresti un approccio iterativo rispetto a uno incrementale?
+Metodologie Agili|Quali sono i rischi di un approccio agile mal implementato?
+Metodologie Agili|Come gestiresti la comunicazione con un cliente che richiede frequenti modifiche in un progetto agile?
+Metodologie Agili|Quali metriche utilizzeresti per valutare il successo di un progetto agile?
+Metodologie Agili|Qual è il ruolo dei test continui in un approccio agile?
+Metodologie Agili|Quali strategie applicheresti per migliorare la velocità di un team agile?
+VOIP|Come configureresti la crittografia in una rete VOIP per proteggere le chiamate?
+VOIP|Quali sono le principali differenze tra SIP e H.323 nel VOIP?
+VOIP|Qual è l’importanza dei codec in una rete VOIP?
+VOIP|Come gestiresti le politiche di sicurezza per evitare attacchi di spoofing e phishing in VOIP?
+VOIP|Quali tecniche useresti per minimizzare la latenza in una rete VOIP?
+VOIP|Come valuteresti le esigenze di banda per un sistema VOIP in un ambiente universitario?
+VOIP|Quali sono i principali vantaggi e limiti di una soluzione VOIP cloud-based?
+VOIP|Come bilanceresti la disponibilità e i costi di una rete VOIP per una grande istituzione?
+VOIP|Quali sono le implicazioni della portabilità dei numeri in un sistema VOIP aziendale?
+VOIP|Come configureresti un sistema di registrazione delle chiamate in una rete VOIP?
+DevOps|Qual è la differenza tra Continuous Integration (CI) e Continuous Delivery (CD)?
+DevOps|Come integreresti i test automatici in una pipeline CI/CD?
+DevOps|Quali strumenti di automazione consiglieresti per l’implementazione di DevOps in un’università?
+DevOps|Come monitoreresti la qualità del codice durante le fasi di integrazione continua?
+DevOps|Quali sono le best practice per gestire l’infrastruttura come codice?
+DevOps|Quali sono i vantaggi della cultura DevOps rispetto a un approccio tradizionale IT?
+DevOps|Come affronteresti la resistenza al cambiamento nell’introduzione di DevOps in un team esistente?
+DevOps|Qual è il ruolo delle revisioni del codice in un flusso CI/CD?
+DevOps|Quali sono i vantaggi dell’uso di container come Docker in un contesto DevOps?
+DevOps|Come assicureresti la sicurezza della pipeline CI/CD in una struttura universitaria?
+Sicurezza Informatica|Quali sono le tecniche di hardening più efficaci per proteggere i server?
+Sicurezza Informatica|Quali sono le differenze tra IDS e IPS e come li implementeresti?
+Sicurezza Informatica|Come gestiresti il logging e il monitoraggio degli eventi in un ambiente IT universitario?
+Sicurezza Informatica|Come definiresti il principio del “least privilege” e come lo applichi in una rete?
+Sicurezza Informatica|Quali strumenti di scansione delle vulnerabilità conosci e come li utilizzeresti?
+Sicurezza Informatica|Come implementeresti una politica di aggiornamento software per evitare vulnerabilità?
+Sicurezza Informatica|Quali sono le principali minacce di phishing e come si possono contrastare in una rete aziendale?
+Sicurezza Informatica|Qual è l’importanza dei certificati SSL/TLS per la sicurezza delle comunicazioni?
+Sicurezza Informatica|Come assicureresti la protezione dei dati personali in una rete aziendale?
+Sicurezza Informatica|Quali sono le migliori pratiche per evitare la perdita di dati (Data Loss Prevention)?
+GDPR|Come gestiresti un incidente di sicurezza che comporta una violazione dei dati personali?
+GDPR|Qual è l’importanza della formazione del personale per la compliance GDPR?
+GDPR|Come gestiresti il diritto alla cancellazione dei dati per un utente di un’università?
+GDPR|Quali dati devono essere inclusi nei registri di trattamento secondo il GDPR?
+GDPR|Come implementeresti il concetto di privacy by design in un nuovo progetto IT?
+GDPR|Quali sono le procedure per la notifica di una violazione dei dati personali?
+GDPR|Come gestiresti la richiesta di accesso ai dati da parte di un soggetto interessato?
+GDPR|Cosa prevede il GDPR riguardo alla portabilità dei dati e come implementarla?
+GDPR|Quali sono i principi di base del GDPR riguardo alla raccolta e al trattamento dei dati?
+GDPR|Quali requisiti devono rispettare i responsabili del trattamento dei dati secondo il GDPR?
+CAD|Come assicureresti l’integrità dei documenti informatici secondo le normative del CAD?
+CAD|Qual è il ruolo dell’identità digitale per l’accesso ai servizi pubblici secondo il CAD?
+CAD|Come definiresti la “conservazione a norma” dei documenti digitali?
+CAD|Quali sono i requisiti per la gestione della posta elettronica certificata (PEC) in una PA?
+CAD|Qual è l’importanza dell’accessibilità digitale per i servizi offerti dalla pubblica amministrazione?
+CAD|Come gestiresti la transizione dai documenti cartacei ai documenti digitali secondo il CAD?
+CAD|Quali sono le principali norme del CAD riguardo alla firma digitale?
+CAD|Cosa prevede il CAD riguardo alla protezione e gestione delle identità digitali?
+CAD|Come si applicano i principi di interoperabilità secondo il CAD in un contesto universitario?
+CAD|Qual è il ruolo della trasparenza digitale nelle amministrazioni pubbliche secondo il CAD?
+Misure Minime di Sicurezza ICT|Come assicureresti il rispetto delle misure minime di sicurezza ICT in una rete universitaria?
+Misure Minime di Sicurezza ICT|Quali sono le principali linee guida AGID per la protezione dei dati delle PA?
+Misure Minime di Sicurezza ICT|Qual è l’importanza della resilienza nelle infrastrutture ICT per le PA?
+Misure Minime di Sicurezza ICT|Quali sono i vantaggi e le sfide nell’implementazione di una politica di sicurezza ICT?
+Misure Minime di Sicurezza ICT|Come valuteresti i rischi associati alla sicurezza ICT in una PA?
+Misure Minime di Sicurezza ICT|Quali sono le principali misure di protezione per i dispositivi mobili nelle PA?
+Misure Minime di Sicurezza ICT|Come implementeresti la gestione dei log per la sicurezza ICT nelle PA?
+Misure Minime di Sicurezza ICT|Quali procedure di autenticazione sono raccomandate per le PA?
+Misure Minime di Sicurezza ICT|Come assicureresti la continuità operativa dei servizi ICT in caso di guasto?
+Misure Minime di Sicurezza ICT|Quali controlli applicheresti per proteggere la rete universitaria dagli attacchi informatici?
+Regolamento di Ateneo|Come gestiresti i permessi di accesso alla rete universitaria per studenti, docenti e ospiti esterni?
+Regolamento di Ateneo|Quali misure sono previste dal regolamento di Ateneo per la sicurezza dell’accesso alla rete?
+Regolamento di Ateneo|Quali responsabilità hanno gli utenti nell’uso dei servizi di rete secondo il regolamento di Ateneo?
+Regolamento di Ateneo|Come viene gestito il monitoraggio dell’attività in rete secondo il regolamento di Ateneo?
+Regolamento di Ateneo|Quali politiche sono previste per l’uso dei dispositivi personali collegati alla rete universitaria?
+Regolamento di Ateneo|Qual è il ruolo delle misure disciplinari nel regolamento della rete di Ateneo?
+Regolamento di Ateneo|Come il regolamento di Ateneo gestisce la conservazione dei dati di accesso?
+Regolamento di Ateneo|Quali sono le linee guida per l’uso dei servizi di posta elettronica dell’Università?
+Regolamento di Ateneo|Quali strumenti di autenticazione vengono suggeriti dal regolamento di Ateneo per l’accesso sicuro?
+Sistemi Operativi Client|Come gestiresti l'aggiornamento centralizzato dei sistemi operativi in una rete universitaria?
+Sistemi Operativi Client|Quali differenze e sfide ci sono nella gestione di Windows, macOS e Linux in un ambiente misto?
+Sistemi Operativi Client|Come configureresti i permessi utente per garantire la sicurezza dei sistemi operativi?
+Sistemi Operativi Client|Quali soluzioni di gestione remota utilizzeresti per l’assistenza ai client?
+Sistemi Operativi Client|Come proteggere i sistemi client dalla perdita di dati in un contesto universitario?
+Sistemi Operativi Client|Quali strumenti utilizzeresti per monitorare e diagnosticare problemi sui client?
+Sistemi Operativi Client|Come pianificheresti le politiche di backup per i dati su client universitari?
+Sistemi Operativi Client|Quali sono le sfide nella configurazione della rete per sistemi operativi diversi?
+Sistemi Operativi Client|Quali strumenti consigli per il controllo delle applicazioni installate sui client?
+Sistemi Operativi Client|Come assicureresti la conformità dei client con le politiche di sicurezza IT?
+Sistemi di Identità Digitale|Quali sono le caratteristiche principali di un sistema di Single Sign-On?
+Sistemi di Identità Digitale|Come implementeresti un sistema di autenticazione a più fattori (MFA) in un ambiente universitario?
+Sistemi di Identità Digitale|Quali protocolli di identità digitale consideri più sicuri per un'organizzazione complessa?
+Sistemi di Identità Digitale|Quali sfide comporta la gestione delle identità digitali per studenti, docenti e staff?
+Sistemi di Identità Digitale|Come garantiresti la sicurezza delle credenziali in un sistema di identità digitale?
+Sistemi di Identità Digitale|Qual è il ruolo della federazione delle identità digitali in un contesto universitario?
+Sistemi di Identità Digitale|Come si può integrare l’identità digitale di un’università con sistemi di terze parti?
+Sistemi di Identità Digitale|Quali sono i principali rischi per la privacy associati alla gestione delle identità digitali?
+Sistemi di Identità Digitale|Quali tecnologie di autenticazione ritieni più affidabili per un'università?
+Sistemi di Identità Digitale|Come gestiresti i permessi per utenti con ruoli temporanei, come gli ospiti?
+Laboratori Didattici|Quali sono le principali differenze tra un laboratorio fisico e uno virtualizzato?
+Laboratori Didattici|Quali strategie useresti per garantire la sicurezza dei dati nei laboratori informatici?
+Laboratori Didattici|Quali tecnologie useresti per permettere agli studenti di accedere da remoto ai laboratori?
+Laboratori Didattici|Come configureresti i laboratori per garantire l'isolamento tra i diversi account utenti?
+Laboratori Didattici|Come monitoreresti l’utilizzo delle risorse nei laboratori didattici?
+Laboratori Didattici|Quali strumenti di virtualizzazione desktop utilizzeresti per laboratori di apprendimento remoto?
+Laboratori Didattici|Quali sono le sfide nella gestione dell’aggiornamento software nei laboratori?
+Laboratori Didattici|Come struttureresti un ambiente sicuro per le esercitazioni di programmazione?
+Laboratori Didattici|Quali misure prenderesti per evitare l’abuso delle risorse nei laboratori?
+Laboratori Didattici|Come gestiresti i backup per i dati degli studenti nei laboratori?
+Asset Management|Quali sono le principali funzionalità di un sistema di asset management?
+Asset Management|Come valuteresti lo stato di salute di un parco dispositivi tramite un sistema di asset inventory?
+Asset Management|Come affronteresti il problema dell’obsolescenza delle apparecchiature IT?
+Asset Management|Quali strategie useresti per monitorare l'uso delle risorse hardware e software?
+Asset Management|Quali tecnologie utilizzeresti per il tracking degli asset in un contesto complesso?
+Asset Management|Come garantiresti la conformità delle licenze software attraverso un sistema di asset management?
+Asset Management|Come pianificheresti la sostituzione e manutenzione dei dispositivi informatici in un’università?
+Asset Management|Quali sono i vantaggi di un inventario digitale degli asset rispetto a uno manuale?
+Asset Management|Come utilizzeresti i dati di un sistema di asset inventory per ottimizzare i costi?
+Asset Management|Quali sono le principali metriche per valutare l’efficacia di un sistema di asset management?
+Regolamento di Ateneo|Come bilanceresti la sicurezza della rete di Ateneo con la necessità di accesso per studenti e visitatori?
+Regolamento di Ateneo|Quali linee guida suggeriresti per l’utilizzo responsabile della rete universitaria?
+Regolamento di Ateneo|Come assicureresti che il regolamento di utilizzo della rete venga comunicato a tutto il personale e agli studenti?
+Regolamento di Ateneo|Quali sono le politiche di accesso alla rete per dispositivi BYOD (Bring Your Own Device)?
+Regolamento di Ateneo|Come valuteresti la conformità al regolamento della rete di Ateneo?
+Regolamento di Ateneo|Quali sono i requisiti di sicurezza per i dispositivi che accedono alla rete di Ateneo?
+Regolamento di Ateneo|Come affronteresti la gestione di un eventuale abuso della rete da parte di utenti?
+Regolamento di Ateneo|Quali sono le procedure di audit per garantire l’aderenza al regolamento della rete di Ateneo?
+Regolamento di Ateneo|Come gestiresti il controllo dei log di accesso per garantire la privacy e la sicurezza?
+Regolamento di Ateneo|Quali sono le principali implicazioni legali di un accesso non autorizzato alla rete universitaria?
+Sistemi Operativi Client|Quali metodi useresti per centralizzare la gestione delle politiche di sicurezza su Windows, macOS e Linux?
+Sistemi Operativi Client|Quali sono le differenze principali nella gestione della sicurezza tra Windows e Linux?
+Sistemi Operativi Client|Come controlleresti e limiteresti l’installazione di software da parte degli utenti sui client?
+Sistemi Operativi Client|Quali strumenti useresti per automatizzare le installazioni e configurazioni sui client?
+Sistemi Operativi Client|Come assicureresti la compatibilità di software specifici su piattaforme diverse?
+Sistemi Operativi Client|Quali sono le migliori pratiche per la gestione di patch e aggiornamenti sui client?
+Sistemi Operativi Client|Quali misure adotteresti per proteggere i client contro attacchi malware?
+Sistemi Operativi Client|Quali strumenti useresti per configurare e gestire policy di sicurezza in un ambiente Windows?
+Sistemi Operativi Client|Come bilanceresti sicurezza e accessibilità nei sistemi operativi client per gli studenti?
+Sistemi Operativi Client|Come valuteresti l’efficienza di un sistema di gestione degli aggiornamenti?
+Sistemi di Identità Digitale|Come gestiresti le identità digitali dei membri esterni (es. visiting professors)?
+Sistemi di Identità Digitale|Quali metodi utilizzeresti per revocare l’accesso a utenti cessati in modo tempestivo?
+Sistemi di Identità Digitale|Come garantiresti la protezione dell’identità digitale nelle comunicazioni via rete?
+Sistemi di Identità Digitale|Quali strategie di autenticazione useresti per servizi a rischio elevato?
+Sistemi di Identità Digitale|Quali sono le differenze principali tra autenticazione basata su certificati e MFA?
+Sistemi di Identità Digitale|Come gestiresti l’accesso degli studenti a servizi esterni tramite identità federate?
+Sistemi di Identità Digitale|Quali criteri seguiresti per l’adozione di una piattaforma di identità digitale in un contesto accademico?
+Sistemi di Identità Digitale|Come proteggeresti le identità digitali contro attacchi di phishing?
+Sistemi di Identità Digitale|Quali tecnologie o standard consideri essenziali per la gestione delle identità digitali in rete?
+Sistemi di Identità Digitale|Come gestiresti le identità digitali in un sistema con numerosi ruoli (es. studente, ricercatore, docente)?
+Laboratori Didattici|Come configureresti i laboratori didattici per permettere lo svolgimento di esercitazioni pratiche in sicurezza?
+Laboratori Didattici|Quali soluzioni useresti per permettere agli studenti di salvare e recuperare i propri dati nei laboratori?
+Laboratori Didattici|Come pianificheresti la gestione degli utenti e delle sessioni nei laboratori didattici?
+Laboratori Didattici|Quali strumenti consiglieresti per monitorare l’attività dei computer nei laboratori?
+Laboratori Didattici|Quali misure di sicurezza prenderesti per evitare la diffusione di malware nei laboratori?
+Laboratori Didattici|Come effettueresti il provisioning delle macchine nei laboratori per semplificare la gestione?
+Laboratori Didattici|Come proteggeresti le configurazioni dei computer nei laboratori didattici?
+Laboratori Didattici|Come permetteresti l’accesso remoto controllato ai laboratori virtuali per studenti?
+Laboratori Didattici|Quali sono le principali sfide nella gestione dei laboratori per corsi con esigenze tecnologiche diverse?
+Laboratori Didattici|Come assicureresti che le risorse hardware e software dei laboratori siano sempre aggiornate?
+Asset Management|Come valuteresti l’efficacia di un sistema di asset tracking per la gestione delle risorse IT?
+Asset Management|Quali sono i vantaggi dell’integrazione di un sistema di asset management con sistemi di ticketing?
+Asset Management|Quali dati consideri essenziali per una gestione accurata dell'inventario degli asset?
+Asset Management|Come gestiresti i cicli di vita degli asset per ottimizzare i costi operativi?
+Asset Management|Quali sono i principali criteri per valutare se un asset IT necessita di sostituzione o riparazione?
+Asset Management|Quali strumenti di asset management consiglieresti per un ambiente con elevato numero di dispositivi?
+Asset Management|Come gestiresti la documentazione degli asset per garantire la conformità alle normative?
+Asset Management|Quali vantaggi offre l’automazione nella gestione degli asset IT?
+Asset Management|Come implementeresti una politica di manutenzione preventiva per gli asset IT?
+Asset Management|Quali procedure di sicurezza attueresti per proteggere l’inventario digitale degli asset?
+Statuto | Qual è la missione principale dell'Università degli Studi di Palermo?
+Statuto | Come l'Università promuove la libertà di insegnamento e di ricerca?
+Statuto | Quali sono i principi di collaborazione con altre istituzioni dell'Università?
+Statuto | Quali valori universali vengono promossi dall'Ateneo?
+Statuto | In che modo l'Università garantisce pari opportunità tra i suoi membri?
+Statuto | Quali sono i titoli di studio rilasciati dall'Università?
+Statuto | Come viene gestito il riconoscimento dei titoli di studio esteri?
+Statuto | Qual è il ruolo della sostenibilità nelle attività di didattica e ricerca?
+Statuto | Quali misure adotta l'Università per l'internazionalizzazione?
+Statuto | Quali sono i diritti e i doveri degli studenti dell'Università?
+Statuto | Come l'Università supporta il diritto allo studio?
+Statuto | Quali sono le modalità di comunicazione interna ed esterna dell'Ateneo?
+Statuto | Quali sono i principi di gestione amministrativa dell'Università?
+Statuto | Da quali fonti proviene il finanziamento dell'Università?
+Statuto | In che modo l'Università può collaborare con enti esterni?
+Statuto | Quali criteri devono rispettare i membri degli organi di governo?
+Statuto | Come si svolge il processo elettorale per le cariche accademiche?
+Statuto | Quali incompatibilità esistono per i membri degli organi accademici?
+Statuto | Quali regolamenti l'Università adotta per attuare le disposizioni dello Statuto?
+Statuto | Qual è l'importanza del Codice Etico per l'Ateneo?
+Statuto | Quali sanzioni sono previste per la violazione del Codice Etico?
+Statuto | Quali sono i principali organi di governo dell'Università?
+Statuto | Qual è il ruolo del Rettore nell'organizzazione universitaria?
+Statuto | Come viene eletto il Rettore dell'Università?
+Statuto | Quali sono i requisiti per essere eleggibili alla carica di Rettore?
+Statuto | Come è composto il Consiglio di Amministrazione?
+Statuto | Quali sono le competenze del Consiglio di Amministrazione?
+Statuto | Chi rappresenta il personale tecnico e amministrativo nei principali organi?
+Statuto | Come è composto il Senato Accademico?
+Statuto | Quali competenze specifiche ha il Senato Accademico?
+Statuto | Come vengono rappresentate le macroaree disciplinari nel Senato?
+Statuto | Quali sono le incompatibilità dei componenti del Senato Accademico?
+Statuto | Qual è la durata del mandato dei membri del Senato?
+Statuto | Quali principi deve rispettare il bilancio dell’Università?
+Statuto | Quali organi possono proporre modifiche allo Statuto?
+Statuto | Come si articola la struttura organizzativa dei Dipartimenti?
+Statuto | Qual è il ruolo dei Direttori di Dipartimento?
+Statuto | Come si definisce il rapporto tra Università e aziende ospedaliere universitarie?
+Statuto | Quali sono gli obiettivi dell'Università riguardo alla salute e al benessere?
+Statuto | Quali sono i meccanismi di valutazione della qualità didattica?
+Statuto | Come l'Università promuove la partecipazione degli studenti alla vita accademica?
+Statuto | Quali incentivi sono previsti per le pubblicazioni scientifiche?
+Statuto | Come è regolata la mobilità dei ricercatori e dei docenti?
+Statuto | Qual è il ruolo delle biblioteche universitarie nello Statuto?
+Statuto | Quali sono le regole per l'utilizzo delle infrastrutture e dei beni dell'Università?
+Statuto | Come l’Università tutela i diritti di proprietà intellettuale dei propri membri?
+Statuto | Qual è la procedura per adottare nuove politiche accademiche?
+Statuto | Quali figure possono proporre iniziative di terza missione?
+Statuto | Come l'Università promuove l'inclusione e la diversità?
+Statuto | Quali sono i compiti del Nucleo di Valutazione dell’Ateneo?
+Statuto | Qual è il principio di autonomia dell’Università e come viene garantito?
+Statuto | In che modo l'Università sostiene la ricerca applicata?
+Statuto | Quali sono i doveri principali del personale docente secondo lo Statuto?
+Statuto | Come vengono promosse le attività di trasferimento tecnologico?
+Statuto | In che modo l’Università di Palermo contribuisce allo sviluppo sostenibile?
+Statuto | Quali sono gli obiettivi dell’Università in termini di internazionalizzazione?
+Statuto | Come sono regolati i rapporti di collaborazione tra Università e enti privati?
+Statuto | Qual è il ruolo del Senato Accademico nella programmazione didattica?
+Statuto | Come sono promosse le attività culturali e sportive per gli studenti?
+Statuto | Quali sono i diritti degli studenti nel partecipare agli organi collegiali?
+Statuto | Qual è la durata del mandato del Rettore e quali sono i limiti di rielezione?
+Statuto | Come vengono selezionati i rappresentanti degli studenti negli organi accademici?
+Statuto | Quali principi devono seguire i regolamenti interni dell’Università?
+Statuto | Come l’Università tutela la libertà di ricerca e insegnamento?
+Statuto | Qual è la struttura organizzativa dell’Università in termini di Dipartimenti e Scuole?
+Statuto | Quali strumenti di monitoraggio della qualità vengono applicati dall’Università?
+Statuto | Quali criteri guida la valutazione delle attività di ricerca e didattica?
+Statuto | Come l’Università promuove l’equilibrio di genere nei suoi organi?
+Statuto | Qual è il ruolo del Codice Etico nell’attività dell’Università?
+Statuto | Come viene garantito l'accesso pubblico ai documenti amministrativi?
+Statuto | Come viene regolata la partecipazione degli studenti alle attività di orientamento?
+Statuto | Quali strumenti di finanziamento alternativi può utilizzare l’Ateneo?
+Statuto | Come si articola la gestione dei fondi di ricerca all'interno dell'Università?
+Statuto | Qual è il ruolo del Consiglio di Amministrazione rispetto alle risorse strutturali?
+Statuto | Come sono gestite le attività di formazione continua e aggiornamento professionale?
+Statuto | Come l'Università garantisce l'inclusione delle persone con disabilità?
+Statuto | In che modo l’Ateneo sostiene la mobilità internazionale degli studenti?
+Statuto | Quali misure favoriscono la partecipazione di studenti stranieri?
+Statuto | Come è regolata la gestione delle carriere accademiche dei docenti?
+Statuto | Qual è il ruolo del Direttore Generale nelle strutture amministrative dell’Ateneo?
